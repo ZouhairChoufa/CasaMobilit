@@ -1,0 +1,1916 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_001",
+        "poi_name": "Villa des Arts دار الفنون",
+        "category": "museum",
+        "area": "Maârif",
+        "nearest_stop_id": "T4_003",
+        "walking_min_from_stop": "5",
+        "short_description": "Fondée en 1999, la Villa des Arts est un espace culturel emblématique de Casablanca installé dans une villa Art déco des années 1930. Elle accueille expositions temporaires, résidences d'artistes et concerts dans un cadre architectural remarquable.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.629503,
+          33.586431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_002",
+        "poi_name": "Hassan II Mosque Museum",
+        "category": "museum",
+        "area": "Corniche / Médina",
+        "nearest_stop_id": "T2_008",
+        "walking_min_from_stop": "8",
+        "short_description": "Musée situé sous l'esplanade de la Mosquée Hassan II, deuxième plus grande mosquée du monde. Il présente l'histoire de la construction monumentale et les arts islamiques marocains. La mosquée elle-même, inaugurée en 1993, peut accueillir 105 000 fidèles.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.630479,
+          33.6055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_003",
+        "poi_name": "Musée de la Fondation Abderrahman slaoui",
+        "category": "museum",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_011",
+        "walking_min_from_stop": "10",
+        "short_description": "Installé dans un immeuble Art déco de 1930, ce musée privé expose affiches vintage, bijoux, flacons de parfum et arts décoratifs du Maroc du XXe siècle. La collection Slaoui est l'une des plus belles collections d'art décoratif colonial au Maroc.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.622616,
+          33.592402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_004",
+        "poi_name": "متحف الطيران",
+        "category": "museum",
+        "area": "Sidi Maarouf",
+        "nearest_stop_id": "BW2_004",
+        "walking_min_from_stop": "12",
+        "short_description": "Le Musée de l'Aviation de Casablanca retrace l'histoire de l'aviation civile et militaire au Maroc. Il expose des maquettes, uniformes, équipements et documents historiques liés à Royal Air Maroc et à l'aviation marocaine depuis l'indépendance.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.665825,
+          33.560631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_005",
+        "poi_name": "Attarik Foundation",
+        "category": "museum",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_013",
+        "walking_min_from_stop": "8",
+        "short_description": "La Fondation Attarik est un espace culturel dédié à la préservation et la valorisation du patrimoine musical et artistique marocain. Elle organise des ateliers, expositions et événements autour des arts traditionnels.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.619778,
+          33.606499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_006",
+        "poi_name": "Musée du Judaïsme marocain متحف التراث اليهودي المغربي",
+        "category": "museum",
+        "area": "Oasis / Maârif",
+        "nearest_stop_id": "T1_005",
+        "walking_min_from_stop": "15",
+        "short_description": "Unique en son genre dans le monde arabe, ce musée fondé en 1997 retrace 2000 ans d'histoire des communautés juives du Maroc. Il abrite costumes, manuscrits, objets liturgiques et photographies témoignant d'une coexistence culturelle remarquable.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.638984,
+          33.552255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_007",
+        "poi_name": "Mausolée Sidi Abderrahmane ضريح سيدي عبد الرحمن",
+        "category": "historic",
+        "area": "Corniche / Rocher",
+        "nearest_stop_id": "T2_010",
+        "walking_min_from_stop": "12",
+        "short_description": "Sanctuaire blanc perché sur un rocher au bord de l'Atlantique, accessible à marée basse. Le mausolée de Sidi Abderrahmane est un lieu de pèlerinage et l'un des sites les plus photographiés de Casablanca, entre mer et ville.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.704457,
+          33.582497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_008",
+        "poi_name": "Sémiramis",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.563728,
+          33.583224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_009",
+        "poi_name": "Sidi Ahmad al Taghy",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.680643,
+          33.589226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_010",
+        "poi_name": "Dar Khalifa دار خليفة",
+        "category": "historic",
+        "area": "Médina",
+        "nearest_stop_id": "T3_002",
+        "walking_min_from_stop": "8",
+        "short_description": "La Dar Khalifa est un palais historique de la médina de Casablanca datant de l'époque du protectorat. Cet édifice témoigne de l'architecture traditionnelle marocaine avec ses patios, zellige et boiseries sculptées.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.681709,
+          33.580817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_011",
+        "poi_name": "باب المرسى",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617076,
+          33.600595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_012",
+        "poi_name": "Bab Marrakech",
+        "category": "historic",
+        "area": "Médina",
+        "nearest_stop_id": "T3_002",
+        "walking_min_from_stop": "5",
+        "short_description": "Bab Marrakech est l'une des anciennes portes de la médina de Casablanca, vestige des remparts historiques de la ville. Elle marque l'entrée du quartier historique et constitue un point de repère important entre la ville moderne et l'ancienne médina.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6215,
+          33.598184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_013",
+        "poi_name": "Mohbas",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.651842,
+          33.529278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_014",
+        "poi_name": "Plaque mémoriale Hachimi El Filali",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.626499,
+          33.562118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_015",
+        "poi_name": "siyed el bernoussi",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.498655,
+          33.616321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_016",
+        "poi_name": "Western Naval Task Force Marker",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.575259,
+          33.578091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_017",
+        "poi_name": "باب مراكش",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617866,
+          33.596933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_018",
+        "poi_name": "Sidi Bilyout",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.614118,
+          33.598807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_019",
+        "poi_name": "Palais Al-Saoud قصر آل سعود",
+        "category": "historic",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/museum_historic",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.666678,
+          33.595377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_020",
+        "poi_name": "Théatre du Complexe Moulay Rachid",
+        "category": "theatre",
+        "area": "Ben M'Sick",
+        "nearest_stop_id": "T3_007",
+        "walking_min_from_stop": "10",
+        "short_description": "Le Théâtre du Complexe Culturel Moulay Rachid est une salle de spectacle polyvalente dans le quartier Ben M'Sick. Il accueille pièces de théâtre, concerts et manifestations culturelles pour le grand public casablancais.",
+        "source": "OSM-Overpass/culture",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.554001,
+          33.564655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_021",
+        "poi_name": "Le Studio des Arts Vivants",
+        "category": "theatre",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_011",
+        "walking_min_from_stop": "10",
+        "short_description": "Le Studio des Arts Vivants est un espace de création et de diffusion artistique indépendant à Casablanca. Il propose des résidences, ateliers de danse et de théâtre, et accueille des créations contemporaines marocaines et internationales.",
+        "source": "OSM-Overpass/culture",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.683833,
+          33.574295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_022",
+        "poi_name": "Mohammed sqali",
+        "category": "theatre",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/culture",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.511963,
+          33.60363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_023",
+        "poi_name": "Théâtre Mohammed VI",
+        "category": "theatre",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_010",
+        "walking_min_from_stop": "8",
+        "short_description": "Le Grand Théâtre de Casablanca Mohammed VI est la plus grande salle de spectacle du Maroc avec une capacité de 1 800 places. Inauguré en 2021, il accueille opéras, ballets, concerts symphoniques et spectacles internationaux.",
+        "source": "OSM-Overpass/culture",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.597061,
+          33.591495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_024",
+        "poi_name": "المركب الثقافي كمال الزبدي",
+        "category": "theatre",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/culture",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.572709,
+          33.556415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_025",
+        "poi_name": "L'Instant T",
+        "category": "theatre",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/culture",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.633334,
+          33.586005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_026",
+        "poi_name": "Centre cinématographique marocain",
+        "category": "arts_centre",
+        "area": "Centre-ville / Maârif",
+        "nearest_stop_id": "T1_011",
+        "walking_min_from_stop": "7",
+        "short_description": "Le Centre Cinématographique Marocain (CCM) est l'organisme officiel de régulation et de promotion du cinéma au Maroc. Son siège à Casablanca abrite des salles de projection, une cinémathèque et des archives du patrimoine filmique marocain.",
+        "source": "OSM-Overpass/culture",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.627874,
+          33.594619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_027",
+        "poi_name": "Centre culturel Noujoum",
+        "category": "arts_centre",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/culture",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.527791,
+          33.574092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_028",
+        "poi_name": "Centre Socio-Culturel",
+        "category": "arts_centre",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/culture",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.650576,
+          33.5263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_029",
+        "poi_name": "Centre Culturel Sidi Maarouf",
+        "category": "arts_centre",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/culture",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.650004,
+          33.522405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_030",
+        "poi_name": "Palais Royal de Casablanca",
+        "category": "attraction",
+        "area": "Médina / Habous",
+        "nearest_stop_id": "T3_003",
+        "walking_min_from_stop": "10",
+        "short_description": "Le Palais Royal de Casablanca est une résidence officielle du roi Mohammed VI, non ouverte au public. Ses imposantes portes sculptées et son esplanade sont visibles depuis la rue et constituent un symbole architectural de la ville.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.604603,
+          33.579538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_031",
+        "poi_name": "Anciens Abattoirs de Casablanca",
+        "category": "attraction",
+        "area": "Hay Mohammadi",
+        "nearest_stop_id": "T1_004",
+        "walking_min_from_stop": "10",
+        "short_description": "Les Anciens Abattoirs sont un complexe industriel du début XXe siècle reconverti en espace culturel et artistique. Ce lieu alternatif accueille des festivals, expositions d'art contemporain, et est devenu un symbole de la scène créative casablancaise.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.58227,
+          33.595088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_032",
+        "poi_name": "Joutia de Derb Ghallef جوطية درب غلف",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.629987,
+          33.570992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_033",
+        "poi_name": "Post Office",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.608602,
+          33.596344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_034",
+        "poi_name": "Marché central",
+        "category": "attraction",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_011",
+        "walking_min_from_stop": "8",
+        "short_description": "Le Marché Central de Casablanca est un marché couvert historique au cœur de la ville fondé en 1917. Il propose poissons frais, fruits, légumes, viandes et épices dans une atmosphère animée, entouré de cafés et restaurants traditionnels.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.611937,
+          33.594888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_035",
+        "poi_name": "Centre Commercial Jawhara",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.513751,
+          33.593486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_036",
+        "poi_name": "Mosquée el haj fateh",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.679129,
+          33.544005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_037",
+        "poi_name": "Twin Center",
+        "category": "attraction",
+        "area": "Maârif",
+        "nearest_stop_id": "T1_014",
+        "walking_min_from_stop": "5",
+        "short_description": "Les Twin Center sont deux tours jumelles de 28 étages (120 m) construites en 1998 qui dominent le quartier Maârif. Symbole de la Casablanca moderne, elles abritent bureaux, commerces et l'hôtel Kenzi Tower. Vue panoramique depuis le sommet.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.632292,
+          33.586584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_038",
+        "poi_name": "Mahkama du Pacha",
+        "category": "attraction",
+        "area": "Habous",
+        "nearest_stop_id": "T3_003",
+        "walking_min_from_stop": "6",
+        "short_description": "Chef-d'œuvre de l'architecture mauresque du XXe siècle, la Mahkama du Pacha (1952) servait de tribunal et de résidence du gouverneur. Ses 64 salles ornées de plâtres sculptés, zelliges et cèdre sculpté en font l'un des plus beaux monuments de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.60632,
+          33.578953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_039",
+        "poi_name": "سوق بنجدية",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.610715,
+          33.585676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_040",
+        "poi_name": "Souk des olives",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.605055,
+          33.577197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_041",
+        "poi_name": "Elmanjra قسارية المنجرة",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.603073,
+          33.568518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_042",
+        "poi_name": "Casa 1373",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.684694,
+          33.571861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_043",
+        "poi_name": "Royal Palace",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.605941,
+          33.580816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_044",
+        "poi_name": "حديقة الجامعة العربية",
+        "category": "attraction",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_010",
+        "walking_min_from_stop": "3",
+        "short_description": "Le Parc de la Ligue Arabe (حديقة الجامعة العربية) est le plus grand espace vert du centre de Casablanca, dessiné en 1918. Ses palmiers centenaires, fontaines et allées ombragées en font le poumon vert de la ville et un lieu de promenade incontournable.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.623625,
+          33.589202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_045",
+        "poi_name": "Coupole Zevaco الكرة الأرضية",
+        "category": "attraction",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_010",
+        "walking_min_from_stop": "5",
+        "short_description": "La Coupole Zevaco, aussi appelée 'la Boule', est une œuvre architecturale moderniste de Jean-François Zevaco devenue symbole du Casablanca des années 1960. Classée patrimoine architectural, elle illustre le mouvement de l'architecture moderne marocaine.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617628,
+          33.596455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_046",
+        "poi_name": "المركب التجاري الصفوة",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.611784,
+          33.592892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_047",
+        "poi_name": "Local market place",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.621519,
+          33.598316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_048",
+        "poi_name": "WeCasablanca Sign",
+        "category": "attraction",
+        "area": "Corniche",
+        "nearest_stop_id": "T2_010",
+        "walking_min_from_stop": "5",
+        "short_description": "Le panneau WeCasablanca sur la Corniche est devenu l'un des spots photos les plus populaires de la ville, à l'image des grands panneaux 'I Love NY' ou 'Hollywood'. Il domine la promenade de l'Atlantique et offre une vue sur l'océan.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.618276,
+          33.591649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_049",
+        "poi_name": "Centre Commercial Mediouna",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.597938,
+          33.572937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_050",
+        "poi_name": "Derb Sultan Gallery",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.599312,
+          33.57544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_051",
+        "poi_name": "مجموعة شيك فولار",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6015,
+          33.575398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_052",
+        "poi_name": "مركز سوق الحبوس",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.604563,
+          33.577812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_053",
+        "poi_name": "برج الياقوت",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.610187,
+          33.589062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_054",
+        "poi_name": "غرفة التجارة الصناعية و الخدمات",
+        "category": "attraction",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.613688,
+          33.594814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_055",
+        "poi_name": "Place des Nations Unies ساحة الأمم المتحدة",
+        "category": "attraction",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_006d",
+        "walking_min_from_stop": "3",
+        "short_description": "Cœur symbolique de Casablanca, la Place des Nations Unies est entourée de bâtiments Art déco et de la fontaine centrale. C'est un carrefour incontournable entre la médina et le centre moderne, point de départ idéal pour explorer la ville.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.618664,
+          33.594996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_056",
+        "poi_name": "سد كنون",
+        "category": "viewpoint",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.693371,
+          33.520267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_057",
+        "poi_name": "View on mosque",
+        "category": "viewpoint",
+        "area": "Corniche",
+        "nearest_stop_id": "T2_008",
+        "walking_min_from_stop": "3",
+        "short_description": "Point de vue privilégié sur la Mosquée Hassan II depuis la Corniche atlantique. Ce belvédère offre une perspective unique sur le monument religieux et son esplanade, avec l'océan Atlantique en arrière-plan — idéal pour la photographie.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.650518,
+          33.609788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_058",
+        "poi_name": "مسجد المنار",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.652001,
+          33.60481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_059",
+        "poi_name": "Mosquée essouna",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.60952,
+          33.561681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_060",
+        "poi_name": "Mosquée Tunis",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.653976,
+          33.514696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_061",
+        "poi_name": "Mosquée Ali Ibn Abi Talib",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.561246,
+          33.561876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_062",
+        "poi_name": "Masjid Arrahmane",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.556322,
+          33.561512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_063",
+        "poi_name": "Mosquée Al Fath",
+        "category": "mosque",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_010",
+        "walking_min_from_stop": "6",
+        "short_description": "La Mosquée Al Fath, dominant la Place Mohammed V depuis 1993, est l'une des plus belles mosquées du centre-ville de Casablanca. Son minaret de 60 mètres est visible de toute la place et constitue un repère architectural du cœur historique.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.51701,
+          33.574618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_064",
+        "poi_name": "مسجد عكاشة",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.580405,
+          33.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_065",
+        "poi_name": "Mosquee Ad Doha",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.63654,
+          33.570388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_066",
+        "poi_name": "mosquée Pakistan",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.571027,
+          33.559796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_067",
+        "poi_name": "Mosquée Ashokr مسجد الشكر",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.650906,
+          33.576921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_068",
+        "poi_name": "Mosquée Al Andalous مسجد الأندلس",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.63487,
+          33.585424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_069",
+        "poi_name": "Mosquée Al Hoda",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.611168,
+          33.569707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_070",
+        "poi_name": "Masjid Dar al-Aman مسجد دار الامان",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.555339,
+          33.59144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_071",
+        "poi_name": "مسجد حي الرجاء",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617133,
+          33.566176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_072",
+        "poi_name": "Mosquée Mohamed VI مسجد محمد السادس",
+        "category": "mosque",
+        "area": "Hay Hassani",
+        "nearest_stop_id": "T2_005",
+        "walking_min_from_stop": "8",
+        "short_description": "La Mosquée Mohammed VI du quartier Hay Hassani est un édifice religieux moderne de grande capacité. Sa conception architecturale associe le style traditionnel marocain à des techniques de construction contemporaines.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.609181,
+          33.585855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_073",
+        "poi_name": "Mosquée Al Bathae",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.643688,
+          33.566601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_074",
+        "poi_name": "مسجد بسم الله",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.580829,
+          33.573597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_075",
+        "poi_name": "مسجد التوفيق",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.534687,
+          33.564503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_076",
+        "poi_name": "مسجد مولاي رشيد",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.528143,
+          33.57007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_077",
+        "poi_name": "مسجد الأربعين",
+        "category": "mosque",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/mosque",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.588433,
+          33.570923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_078",
+        "poi_name": "ibis",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.640413,
+          33.525351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_079",
+        "poi_name": "Ibis",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.625049,
+          33.577898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_080",
+        "poi_name": "Zenith",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.664555,
+          33.536551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_081",
+        "poi_name": "Adagio",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.644214,
+          33.585386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_082",
+        "poi_name": "Sofitel",
+        "category": "hotel",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_012",
+        "walking_min_from_stop": "8",
+        "short_description": "Le Sofitel Casablanca Tour Blanche est un hôtel 5 étoiles situé dans la tour blanche du centre-ville, offrant une vue panoramique sur l'Atlantique et la ville. C'est l'un des établissements de luxe emblématiques de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.613945,
+          33.59801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_083",
+        "poi_name": "Le Doge",
+        "category": "hotel",
+        "area": "Centre-ville",
+        "nearest_stop_id": "T1_013",
+        "walking_min_from_stop": "5",
+        "short_description": "Le Doge est un hôtel boutique 5 étoiles installé dans une villa Art déco des années 1930, entièrement restaurée. Ses 9 chambres uniquement, sa piscine intérieure et son restaurant gastronomique en font l'adresse la plus exclusive de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.623462,
+          33.592753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_084",
+        "poi_name": "Windsor",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.624663,
+          33.595128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_085",
+        "poi_name": "Saisons",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.615227,
+          33.596907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_086",
+        "poi_name": "Ryad 91",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617018,
+          33.597661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_087",
+        "poi_name": "Pestana",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.666643,
+          33.597788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_088",
+        "poi_name": "Boustane",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.595641,
+          33.590436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_089",
+        "poi_name": "Terminus",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.592136,
+          33.58955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_090",
+        "poi_name": "Guynemer",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.615487,
+          33.592656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poi_id": "POI_091",
+        "poi_name": "Excelsior",
+        "category": "hotel",
+        "area": "Casablanca",
+        "nearest_stop_id": "",
+        "walking_min_from_stop": "",
+        "short_description": "Site touristique de Casablanca.",
+        "source": "OSM-Overpass/tourism",
+        "verified": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.616421,
+          33.596235
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+/* ── Global ── */
+html, body, [class*="css"] {
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+.block-container { padding-top: 1rem !important; }
+
+/* ── Sidebar (Support du Thème Natif) ── */
+[data-testid="stSidebar"] .stButton > button {
+  background: linear-gradient(135deg, #E84E1B, #FF6B3D) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 8px !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  padding: 10px !important;
+  box-shadow: 0 4px 12px rgba(232, 78, 27, 0.4) !important;
+  transition: all 0.2s !important;
+}
+[data-testid="stSidebar"] .stButton > button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(232, 78, 27, 0.6) !important;
+}
+.stat-row {
+  display: flex; align-items: center; gap: 10px;
+  padding: 6px 12px;
+  background: var(--background-color);
+  border: 1px solid var(--secondary-background-color);
+  border-radius: 6px; margin-bottom: 6px;
+  font-size: 13px; font-weight: 600;
+  color: var(--text-color);
+}
+
+/* ── Section Headers ── */
+.sec-hdr {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text-color);
+  margin: 24px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--secondary-background-color);
+}
+
+/* ── Header Banner (Dynamique) ── */
+.header-banner {
+  background: #f6f6f6;
+  padding: 16px 24px;
+  border-radius: 12px;
+  border-bottom: 3px solid #F38230;
+  border-top: 3px solid #F38230;
+  margin-bottom: 24px;
+}
+
+/* ── Metric Cards ── */
+.metric-card {
+  background: var(--background-color);
+  border: 1px solid var(--secondary-background-color);
+  padding: 16px;
+  border-radius: 12px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.metric-card::before {
+  content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 4px;
+  background: var(--acc);
+}
+.metric-card i { font-size: 24px; color: var(--acc); margin-bottom: 8px; }
+.metric-val { font-size: 20px; font-weight: 800; color: var(--text-color); }
+.metric-lbl { font-size: 12px; font-weight: 600; color: var(--text-color); opacity: 0.7; }
+
+/* ── Badges & Pills ── */
+.route-badge {
+  display: inline-block; padding: 3px 10px;
+  border-radius: 6px; color: white !important;
+  font-size: 12px; font-weight: 700;
+  margin: 2px;
+}
+.pill {
+  display: inline-block; padding: 4px 14px;
+  border-radius: 20px; font-size: 12px; font-weight: 700;
+  margin-right: 6px; border: 1px solid;
+}
+.pill-tramway { background: rgba(243, 130, 48, 0.1); color: #F38230 !important; border-color: rgba(243, 130, 48, 0.3); }
+.pill-busway  { background: rgba(0, 120, 200, 0.1); color: #0078C8 !important; border-color: rgba(0, 120, 200, 0.3); }
+.pill-marche  { background: rgba(39, 174, 96, 0.1); color: #27ae60 !important; border-color: rgba(39, 174, 96, 0.3); }
+
+/* ── Scenario Cards ── */
+.sc-card {
+
+  background: var(--background-color);
+  border: 1px solid var(--secondary-background-color);
+  border: 2px solid #e1e1e1ed;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 12px;
+  transition: all 0.2s;
+}
+.sc-card:hover {
+  border-color: var(--sc-col);
+  box-shadow: 0 4px 5px rgba(246, 246, 246, 0.1);
+}
+.sc-meta {
+  display: flex; gap: 16px; margin-top: 12px;
+  padding-top: 10px; border-top: 1px solid var(--secondary-background-color);
+  font-size: 12px; color: var(--text-color); opacity: 0.8;
+}
+
+/* ── Steps ── */
+.step {
+  display: flex; align-items: flex-start; gap: 14px;
+  margin-bottom: 10px;
+  background: #f4f4f5;
+  border-top: 2px solid #0078C8;
+  padding: 12px 16px;
+  border-radius: 8px;
+}
+.step-num {
+  background: #2563EB;
+  color: var(--text-color);
+  border-radius: 50%; width: 24px; height: 24px; min-width: 24px;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 12px;
+}
+.step-ico { font-size: 15px; color: #2563EB; padding-top: 1px; }
+.step-txt { font-size: 13px; color: var(--text-color); line-height: 1.55; }
+
+/* ── POI card ── */
+.poi-card {
+  background: var(--background-color);
+  border-radius: 14px;
+  padding: 22px 26px;
+  box-shadow: 0 3px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--secondary-background-color);
+  border-top: 5px solid #E84E1B;
+}
+.poi-badge {
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  color: white !important;
+  margin: 3px 3px 0 0;
+}
+
+/* ── No-route ── */
+.no-route {
+  background: rgba(253, 186, 116, 0.1);
+  border: 1px solid #FDBA74;
+  border-radius: 10px;
+  padding: 16px;
+  color: var(--text-color);
+  font-size: 14px;
+}

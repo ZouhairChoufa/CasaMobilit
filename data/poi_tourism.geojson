@@ -1,0 +1,7593 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-28T19:09:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105623010",
+        "addr:city": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Place des Nations Unies ساحة الأمم المتحدة",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "brand": "Hyatt Regency",
+        "brand:wikidata": "Q115794868",
+        "building": "hotel",
+        "contact:facebook": "HyattRegencyCasablanca",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Hyatt Regency Casablanca",
+        "opening_hours": "24/7",
+        "operator": "Hyatt",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+212 522431234",
+        "reservation": "yes",
+        "smoking": "outside",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hyatt.com/hyatt-regency/en-US/casab-hyatt-regency-casablanca",
+        "wheelchair": "yes",
+        "wikidata": "Q5952867",
+        "wikipedia": "en:Hyatt Regency Casablanca"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6191583,
+              33.5959643
+            ],
+            [
+              -7.618967,
+              33.5958161
+            ],
+            [
+              -7.618483,
+              33.5962431
+            ],
+            [
+              -7.6185959,
+              33.5963292
+            ],
+            [
+              -7.6186724,
+              33.5962814
+            ],
+            [
+              -7.6187259,
+              33.5963228
+            ],
+            [
+              -7.6191583,
+              33.5959643
+            ]
+          ]
+        ]
+      },
+      "id": "way/105623010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107537220",
+        "name": "Palais Royal de Casablanca",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6049584,
+              33.5787701
+            ],
+            [
+              -7.6044648,
+              33.5790025
+            ],
+            [
+              -7.6044327,
+              33.5790114
+            ],
+            [
+              -7.6042878,
+              33.5787701
+            ],
+            [
+              -7.6036924,
+              33.5790427
+            ],
+            [
+              -7.6032203,
+              33.5792885
+            ],
+            [
+              -7.6031452,
+              33.5791634
+            ],
+            [
+              -7.6024014,
+              33.5796341
+            ],
+            [
+              -7.6033105,
+              33.5806028
+            ],
+            [
+              -7.6053244,
+              33.5816855
+            ],
+            [
+              -7.6069445,
+              33.5801839
+            ],
+            [
+              -7.6065945,
+              33.5799994
+            ],
+            [
+              -7.606101,
+              33.5797547
+            ],
+            [
+              -7.6052051,
+              33.5793958
+            ],
+            [
+              -7.6049584,
+              33.5787701
+            ]
+          ]
+        ]
+      },
+      "id": "way/107537220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168411677",
+        "designation": "Centre Culturel",
+        "name": "Anciens Abattoirs de Casablanca",
+        "name:en": "Ancient Slaughterhouses of Casablanca",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.5843646,
+              33.5946479
+            ],
+            [
+              -7.5827392,
+              33.5937274
+            ],
+            [
+              -7.5800742,
+              33.5947297
+            ],
+            [
+              -7.5806142,
+              33.5957843
+            ],
+            [
+              -7.5812606,
+              33.595772
+            ],
+            [
+              -7.5813153,
+              33.5958377
+            ],
+            [
+              -7.5815839,
+              33.5958083
+            ],
+            [
+              -7.5841104,
+              33.5948391
+            ],
+            [
+              -7.5843646,
+              33.5946479
+            ]
+          ]
+        ]
+      },
+      "id": "way/168411677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/214485934",
+        "amenity": "marketplace",
+        "check_date": "2025-05-09",
+        "landuse": "commercial",
+        "name": "Joutia de Derb Ghallef جوطية درب غلف",
+        "name:ar": "جوطية درب غلف",
+        "name:fr": "Joutia de Derb Ghallef",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.630429,
+              33.5719395
+            ],
+            [
+              -7.6307995,
+              33.5712752
+            ],
+            [
+              -7.630879,
+              33.571267
+            ],
+            [
+              -7.6309684,
+              33.5711795
+            ],
+            [
+              -7.6312728,
+              33.5711243
+            ],
+            [
+              -7.6312185,
+              33.5705588
+            ],
+            [
+              -7.6312023,
+              33.5700744
+            ],
+            [
+              -7.6303559,
+              33.5698757
+            ],
+            [
+              -7.6298113,
+              33.5698359
+            ],
+            [
+              -7.6283162,
+              33.5697341
+            ],
+            [
+              -7.6287537,
+              33.5701645
+            ],
+            [
+              -7.6288802,
+              33.570744
+            ],
+            [
+              -7.6289646,
+              33.5710798
+            ],
+            [
+              -7.6290443,
+              33.5713119
+            ],
+            [
+              -7.6291632,
+              33.5714896
+            ],
+            [
+              -7.6292974,
+              33.5716506
+            ],
+            [
+              -7.629748,
+              33.5717579
+            ],
+            [
+              -7.6302207,
+              33.5718367
+            ],
+            [
+              -7.630429,
+              33.5719395
+            ]
+          ]
+        ]
+      },
+      "id": "way/214485934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243836881",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.634232,
+              33.5987232
+            ],
+            [
+              -7.6339753,
+              33.5987542
+            ],
+            [
+              -7.6340479,
+              33.5990838
+            ],
+            [
+              -7.634055,
+              33.5991192
+            ],
+            [
+              -7.6343148,
+              33.5991059
+            ],
+            [
+              -7.634232,
+              33.5987232
+            ]
+          ]
+        ]
+      },
+      "id": "way/243836881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248378046",
+        "alt_name": "Barid Al-Maghrib",
+        "alt_name:ar": "بريد المغرب",
+        "alt_name:fr": "Barid Al-Maghrib",
+        "building": "yes",
+        "name": "Post Office",
+        "operator": "Poste Maroc",
+        "operator:wikidata": "Q3399778",
+        "post_office:type": "centre courriers et messagerie",
+        "ref:liLocationID": "55.0",
+        "ref:liSequence": "5.0",
+        "source": "data.gov.ma",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6081717,
+              33.5964977
+            ],
+            [
+              -7.6086599,
+              33.5965692
+            ],
+            [
+              -7.6086805,
+              33.5965524
+            ],
+            [
+              -7.6088852,
+              33.596386
+            ],
+            [
+              -7.6088905,
+              33.5960375
+            ],
+            [
+              -7.6088703,
+              33.5960441
+            ],
+            [
+              -7.6087403,
+              33.5960866
+            ],
+            [
+              -7.6087296,
+              33.5963234
+            ],
+            [
+              -7.6085955,
+              33.5964307
+            ],
+            [
+              -7.6082307,
+              33.5963592
+            ],
+            [
+              -7.6081717,
+              33.5964977
+            ]
+          ]
+        ]
+      },
+      "id": "way/248378046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/272993158",
+        "building": "yes",
+        "name": "Marché central",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.611446,
+              33.5944693
+            ],
+            [
+              -7.6114369,
+              33.5945008
+            ],
+            [
+              -7.6114067,
+              33.5944945
+            ],
+            [
+              -7.6112464,
+              33.5949919
+            ],
+            [
+              -7.6113825,
+              33.5950196
+            ],
+            [
+              -7.6113916,
+              33.5949931
+            ],
+            [
+              -7.6118502,
+              33.595064
+            ],
+            [
+              -7.6118426,
+              33.5950983
+            ],
+            [
+              -7.6119734,
+              33.5951185
+            ],
+            [
+              -7.6119811,
+              33.5950843
+            ],
+            [
+              -7.6123605,
+              33.595143
+            ],
+            [
+              -7.612353,
+              33.5951694
+            ],
+            [
+              -7.6125162,
+              33.5951946
+            ],
+            [
+              -7.6127793,
+              33.5947778
+            ],
+            [
+              -7.6127536,
+              33.5947702
+            ],
+            [
+              -7.6127702,
+              33.594735
+            ],
+            [
+              -7.611446,
+              33.5944693
+            ]
+          ]
+        ]
+      },
+      "id": "way/272993158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284359410",
+        "building": "yes",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6335931,
+              33.6057573
+            ],
+            [
+              -7.6335946,
+              33.6057002
+            ],
+            [
+              -7.6335411,
+              33.6056992
+            ],
+            [
+              -7.6335396,
+              33.6057563
+            ],
+            [
+              -7.6335931,
+              33.6057573
+            ]
+          ]
+        ]
+      },
+      "id": "way/284359410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330594619",
+        "addr:city": "Casablanca",
+        "addr:housenumber": "23",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Leon l'Africain",
+        "building": "yes",
+        "name": "Gare CTM Casablanca - principale",
+        "name:fr": "Casablanca FAR",
+        "opening_hours": "Mo-Su 04:00-24:00",
+        "operator": "CTM",
+        "phone": "+212 80 0090030",
+        "tourism": "attraction",
+        "website": "https://www.ctm.ma/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6106089,
+              33.5963356
+            ],
+            [
+              -7.6106999,
+              33.5964774
+            ],
+            [
+              -7.6108055,
+              33.596642
+            ],
+            [
+              -7.6112741,
+              33.5966292
+            ],
+            [
+              -7.6112405,
+              33.5965651
+            ],
+            [
+              -7.6114559,
+              33.5964813
+            ],
+            [
+              -7.6113751,
+              33.596363
+            ],
+            [
+              -7.6113016,
+              33.5962599
+            ],
+            [
+              -7.610784,
+              33.5964811
+            ],
+            [
+              -7.610761,
+              33.5964478
+            ],
+            [
+              -7.6107404,
+              33.5964181
+            ],
+            [
+              -7.6116497,
+              33.5960121
+            ],
+            [
+              -7.6116672,
+              33.5960379
+            ],
+            [
+              -7.6116888,
+              33.5960697
+            ],
+            [
+              -7.6118672,
+              33.5959892
+            ],
+            [
+              -7.6118432,
+              33.5959597
+            ],
+            [
+              -7.6117684,
+              33.5958678
+            ],
+            [
+              -7.6110694,
+              33.595852
+            ],
+            [
+              -7.6109342,
+              33.5959047
+            ],
+            [
+              -7.6108782,
+              33.5960002
+            ],
+            [
+              -7.6105002,
+              33.5961796
+            ],
+            [
+              -7.6105291,
+              33.596221
+            ],
+            [
+              -7.6106089,
+              33.5963356
+            ]
+          ]
+        ]
+      },
+      "id": "way/330594619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/396331101",
+        "addr:city": "Casablanca",
+        "addr:street": "Rue Abderrahmane Sahraoui",
+        "building": "hotel",
+        "name": "Hotel de Prince de Paris",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6195701,
+              33.5930681
+            ],
+            [
+              -7.6201236,
+              33.5932657
+            ],
+            [
+              -7.6203268,
+              33.5929294
+            ],
+            [
+              -7.6196605,
+              33.5926989
+            ],
+            [
+              -7.6195843,
+              33.5928259
+            ],
+            [
+              -7.6196577,
+              33.5928377
+            ],
+            [
+              -7.6196689,
+              33.5927789
+            ],
+            [
+              -7.6197226,
+              33.592793
+            ],
+            [
+              -7.6195701,
+              33.5930681
+            ]
+          ]
+        ]
+      },
+      "id": "way/396331101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/396331135",
+        "addr:street": "Boulevard de Paris",
+        "building": "hotel",
+        "name": "Hotel Prince de Paris",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6202093,
+              33.5933622
+            ],
+            [
+              -7.6204981,
+              33.5935012
+            ],
+            [
+              -7.6205784,
+              33.5933854
+            ],
+            [
+              -7.6202896,
+              33.5932464
+            ],
+            [
+              -7.6202093,
+              33.5933622
+            ]
+          ]
+        ]
+      },
+      "id": "way/396331135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416597653",
+        "building": "hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6117013,
+              33.5965052
+            ],
+            [
+              -7.6122347,
+              33.5964925
+            ],
+            [
+              -7.6122185,
+              33.5960223
+            ],
+            [
+              -7.6121542,
+              33.5960238
+            ],
+            [
+              -7.6121533,
+              33.595997
+            ],
+            [
+              -7.6120531,
+              33.5959994
+            ],
+            [
+              -7.6120543,
+              33.5960351
+            ],
+            [
+              -7.6120052,
+              33.5960363
+            ],
+            [
+              -7.6120142,
+              33.5962965
+            ],
+            [
+              -7.6116944,
+              33.5963041
+            ],
+            [
+              -7.6117013,
+              33.5965052
+            ]
+          ]
+        ]
+      },
+      "id": "way/416597653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/417968844",
+        "addr:street": "Rue Léon l'Africain",
+        "building": "hotel",
+        "name": "Hôtel Odyss",
+        "name:fr": "Hôtel Odyss",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6137153,
+              33.5961326
+            ],
+            [
+              -7.6138643,
+              33.5959216
+            ],
+            [
+              -7.6137092,
+              33.5958495
+            ],
+            [
+              -7.6136438,
+              33.5959216
+            ],
+            [
+              -7.6135334,
+              33.5958694
+            ],
+            [
+              -7.6134968,
+              33.5959177
+            ],
+            [
+              -7.6134053,
+              33.5960382
+            ],
+            [
+              -7.6137153,
+              33.5961326
+            ]
+          ]
+        ]
+      },
+      "id": "way/417968844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/422309949",
+        "addr:city": "Casablanca",
+        "addr:housenumber": "11",
+        "addr:street": "Rue Abou Bakr Essediq",
+        "building": "apartments",
+        "level": "3",
+        "name": "Hotel Montparnasse",
+        "phone": "+212654787992",
+        "smoking": "no",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6152687,
+              33.5873436
+            ],
+            [
+              -7.615397,
+              33.587316
+            ],
+            [
+              -7.6153629,
+              33.587218
+            ],
+            [
+              -7.6152347,
+              33.5872444
+            ],
+            [
+              -7.6152687,
+              33.5873436
+            ]
+          ]
+        ]
+      },
+      "id": "way/422309949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483558474",
+        "name": "سوق القريعة",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.5982454,
+              33.5620477
+            ],
+            [
+              -7.5985029,
+              33.5629909
+            ],
+            [
+              -7.5974381,
+              33.5633664
+            ],
+            [
+              -7.5980765,
+              33.564495
+            ],
+            [
+              -7.5982347,
+              33.5645554
+            ],
+            [
+              -7.600528,
+              33.5634267
+            ],
+            [
+              -7.6007077,
+              33.5632501
+            ],
+            [
+              -7.6007801,
+              33.562193
+            ],
+            [
+              -7.6005575,
+              33.5619717
+            ],
+            [
+              -7.5987121,
+              33.5619628
+            ],
+            [
+              -7.5982454,
+              33.5620477
+            ]
+          ]
+        ]
+      },
+      "id": "way/483558474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550477784",
+        "fee": "yes",
+        "name": "Zoo d'Aïn-Sebaâ",
+        "name:ar": "حديقة الحيوانات عين السبع",
+        "name:fr": "Parc Zoologique Ain sebaâ",
+        "tourism": "zoo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.5348545,
+              33.6043967
+            ],
+            [
+              -7.5345293,
+              33.6042274
+            ],
+            [
+              -7.5342122,
+              33.6041055
+            ],
+            [
+              -7.5339276,
+              33.6040581
+            ],
+            [
+              -7.5322851,
+              33.60397
+            ],
+            [
+              -7.5304719,
+              33.6038346
+            ],
+            [
+              -7.5302361,
+              33.603882
+            ],
+            [
+              -7.5280977,
+              33.6052161
+            ],
+            [
+              -7.5279188,
+              33.6054802
+            ],
+            [
+              -7.5279839,
+              33.6057172
+            ],
+            [
+              -7.5285693,
+              33.6069294
+            ],
+            [
+              -7.5348545,
+              33.6043967
+            ]
+          ]
+        ]
+      },
+      "id": "way/550477784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588508353",
+        "addr:street": "Rue de Karachi",
+        "building": "hotel",
+        "name": "Hôtel Métropole",
+        "name:fr": "Hôtel Métropole",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.608635,
+              33.5931642
+            ],
+            [
+              -7.6086259,
+              33.5929081
+            ],
+            [
+              -7.6083088,
+              33.592916
+            ],
+            [
+              -7.6083179,
+              33.5931721
+            ],
+            [
+              -7.608635,
+              33.5931642
+            ]
+          ]
+        ]
+      },
+      "id": "way/588508353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588508385",
+        "addr:street": "Rue Do-Hu",
+        "building": "hotel",
+        "name": "Hôtel Coli",
+        "name:fr": "Hôtel Coli",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6118597,
+              33.5935296
+            ],
+            [
+              -7.6119145,
+              33.5933738
+            ],
+            [
+              -7.6117817,
+              33.5933414
+            ],
+            [
+              -7.611727,
+              33.5934972
+            ],
+            [
+              -7.6118597,
+              33.5935296
+            ]
+          ]
+        ]
+      },
+      "id": "way/588508385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588508393",
+        "addr:street": "Boulevard Houphouët Boigny",
+        "building": "hotel",
+        "name": "Hôtel du Centre",
+        "name:fr": "Hôtel du Centre",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6149253,
+              33.597114
+            ],
+            [
+              -7.6146753,
+              33.5970282
+            ],
+            [
+              -7.6145503,
+              33.5972809
+            ],
+            [
+              -7.6148003,
+              33.5973667
+            ],
+            [
+              -7.6149253,
+              33.597114
+            ]
+          ]
+        ]
+      },
+      "id": "way/588508393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588736080",
+        "addr:street": "Avenue Lalla Yacout",
+        "building": "hotel",
+        "name": "Hotel Champian",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.614389,
+              33.5913299
+            ],
+            [
+              -7.6144776,
+              33.5911496
+            ],
+            [
+              -7.6143006,
+              33.5910893
+            ],
+            [
+              -7.614212,
+              33.5912696
+            ],
+            [
+              -7.614389,
+              33.5913299
+            ]
+          ]
+        ]
+      },
+      "id": "way/588736080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588762265",
+        "addr:street": "Rue Ahmed Faris",
+        "building": "hotel",
+        "name": "Hôtel Lorraine",
+        "name:fr": "Hôtel Lorraine",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6068762,
+              33.5929151
+            ],
+            [
+              -7.6068609,
+              33.5925739
+            ],
+            [
+              -7.606696,
+              33.5925058
+            ],
+            [
+              -7.6064631,
+              33.5927878
+            ],
+            [
+              -7.6068762,
+              33.5929151
+            ]
+          ]
+        ]
+      },
+      "id": "way/588762265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589097328",
+        "addr:street": "Boulevard Rahal El Meskini",
+        "building": "hotel",
+        "name": "Hotel Antel",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6097757,
+              33.5887191
+            ],
+            [
+              -7.6097287,
+              33.5886119
+            ],
+            [
+              -7.6096188,
+              33.5886476
+            ],
+            [
+              -7.6095021,
+              33.5886152
+            ],
+            [
+              -7.6094079,
+              33.5887207
+            ],
+            [
+              -7.6094846,
+              33.5887895
+            ],
+            [
+              -7.6095165,
+              33.5887978
+            ],
+            [
+              -7.6095463,
+              33.5887906
+            ],
+            [
+              -7.6097757,
+              33.5887191
+            ]
+          ]
+        ]
+      },
+      "id": "way/589097328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589301611",
+        "addr:street": "Boulevard Lahcen Ouidder",
+        "building": "hotel",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.609779,
+              33.5849927
+            ],
+            [
+              -7.6097026,
+              33.5850519
+            ],
+            [
+              -7.6098001,
+              33.5851393
+            ],
+            [
+              -7.6098765,
+              33.5850801
+            ],
+            [
+              -7.609779,
+              33.5849927
+            ]
+          ]
+        ]
+      },
+      "id": "way/589301611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589926532",
+        "addr:housenumber": "5",
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "residential",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6200163,
+              33.5889046
+            ],
+            [
+              -7.6198088,
+              33.5887942
+            ],
+            [
+              -7.6197504,
+              33.5888704
+            ],
+            [
+              -7.619958,
+              33.5889807
+            ],
+            [
+              -7.6200163,
+              33.5889046
+            ]
+          ]
+        ]
+      },
+      "id": "way/589926532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589926536",
+        "addr:street": "Zanqat Al Amir Moulay Abdellah",
+        "building": "hotel",
+        "name": "Hotel du Palais",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6167541,
+              33.5902881
+            ],
+            [
+              -7.6168467,
+              33.5900946
+            ],
+            [
+              -7.6167418,
+              33.5900458
+            ],
+            [
+              -7.6165552,
+              33.5901891
+            ],
+            [
+              -7.6167541,
+              33.5902881
+            ]
+          ]
+        ]
+      },
+      "id": "way/589926536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589926540",
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "commercial",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6199977,
+              33.5885868
+            ],
+            [
+              -7.6198825,
+              33.5887324
+            ],
+            [
+              -7.6200088,
+              33.5888018
+            ],
+            [
+              -7.6201241,
+              33.5886562
+            ],
+            [
+              -7.6199977,
+              33.5885868
+            ]
+          ]
+        ]
+      },
+      "id": "way/589926540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589926541",
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "commercial",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6196871,
+              33.5886127
+            ],
+            [
+              -7.6197877,
+              33.588484
+            ],
+            [
+              -7.6197079,
+              33.5884407
+            ],
+            [
+              -7.6196073,
+              33.5885694
+            ],
+            [
+              -7.6196871,
+              33.5886127
+            ]
+          ]
+        ]
+      },
+      "id": "way/589926541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589926542",
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "hotel",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6193324,
+              33.5884365
+            ],
+            [
+              -7.6194464,
+              33.5884981
+            ],
+            [
+              -7.6195255,
+              33.5883964
+            ],
+            [
+              -7.6194115,
+              33.5883348
+            ],
+            [
+              -7.6193324,
+              33.5884365
+            ]
+          ]
+        ]
+      },
+      "id": "way/589926542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589996079",
+        "addr:street": "Boulevard de Strasbourg",
+        "building": "commercial",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6094833,
+              33.588604
+            ],
+            [
+              -7.6093935,
+              33.588507
+            ],
+            [
+              -7.6092077,
+              33.5886221
+            ],
+            [
+              -7.609203,
+              33.5886381
+            ],
+            [
+              -7.609207,
+              33.5886543
+            ],
+            [
+              -7.6092191,
+              33.5886661
+            ],
+            [
+              -7.6093867,
+              33.5887091
+            ],
+            [
+              -7.6094833,
+              33.588604
+            ]
+          ]
+        ]
+      },
+      "id": "way/589996079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/595677021",
+        "name": "Centre Commercial Jawhara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.5132323,
+              33.5936423
+            ],
+            [
+              -7.513345,
+              33.593763
+            ],
+            [
+              -7.5137473,
+              33.5937094
+            ],
+            [
+              -7.5147687,
+              33.593269
+            ],
+            [
+              -7.5141818,
+              33.5928872
+            ],
+            [
+              -7.5132323,
+              33.5936423
+            ]
+          ]
+        ]
+      },
+      "id": "way/595677021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/596671548",
+        "addr:street": "Boulevard Oued Daoura",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Mosquée el haj fateh",
+        "name:en": "Mosque el haj fateh",
+        "name:fr": "Mosquée el haj fateh",
+        "religion": "muslim",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6791711,
+              33.5441287
+            ],
+            [
+              -7.6792798,
+              33.5438846
+            ],
+            [
+              -7.6790666,
+              33.5438186
+            ],
+            [
+              -7.6789579,
+              33.5440628
+            ],
+            [
+              -7.6791711,
+              33.5441287
+            ]
+          ]
+        ]
+      },
+      "id": "way/596671548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/597074084",
+        "building": "yes",
+        "name": "Parc Regency Hotel",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7645633,
+              33.5313362
+            ],
+            [
+              -7.764464,
+              33.5311685
+            ],
+            [
+              -7.764336,
+              33.5312211
+            ],
+            [
+              -7.7642903,
+              33.5311439
+            ],
+            [
+              -7.7642311,
+              33.5311682
+            ],
+            [
+              -7.7642769,
+              33.5312455
+            ],
+            [
+              -7.7641371,
+              33.531303
+            ],
+            [
+              -7.7642363,
+              33.5314706
+            ],
+            [
+              -7.764332,
+              33.5314313
+            ],
+            [
+              -7.7642924,
+              33.5315016
+            ],
+            [
+              -7.7642682,
+              33.5315922
+            ],
+            [
+              -7.7643876,
+              33.531619
+            ],
+            [
+              -7.7644096,
+              33.5315623
+            ],
+            [
+              -7.7644223,
+              33.5315838
+            ],
+            [
+              -7.7645287,
+              33.53154
+            ],
+            [
+              -7.7645171,
+              33.5315203
+            ],
+            [
+              -7.764574,
+              33.5315396
+            ],
+            [
+              -7.7646209,
+              33.5314569
+            ],
+            [
+              -7.7645311,
+              33.5314133
+            ],
+            [
+              -7.7644385,
+              33.5313875
+            ],
+            [
+              -7.7645633,
+              33.5313362
+            ]
+          ]
+        ]
+      },
+      "id": "way/597074084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/597477517",
+        "addr:street": "Zanqat 69",
+        "building": "hotel",
+        "name": "Casablanca Suites & Spa",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6485296,
+              33.5374477
+            ],
+            [
+              -7.6484526,
+              33.5371405
+            ],
+            [
+              -7.6480222,
+              33.5372154
+            ],
+            [
+              -7.6480991,
+              33.5375225
+            ],
+            [
+              -7.6485296,
+              33.5374477
+            ]
+          ]
+        ]
+      },
+      "id": "way/597477517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1057612990",
+        "addr:city": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Boulevard Zoulikha Nasri",
+        "brand": "Hilton Garden Inn",
+        "brand:wikidata": "Q1162859",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Hilton-Garden-Inn-Casablanca-Sud-111371208152082",
+        "contact:instagram": "https://www.instagram.com/hiltongardeninncasablanca/",
+        "contact:linkedin": "https://www.linkedin.com/company/hilton-garden-inn-casablanca-sud/",
+        "contact:twitter": "https://twitter.com/Hgicasablanca",
+        "email": "casas_res@hilton.com",
+        "internet_access": "yes",
+        "name": "Hilton Garden Inn Casablanca Sud",
+        "operator": "Hilton",
+        "phone": "+212 520 277 277",
+        "rooms": "155",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/casasgi-hilton-garden-inn-casablanca-sud/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6314208,
+              33.508266
+            ],
+            [
+              -7.6313226,
+              33.507891
+            ],
+            [
+              -7.6305548,
+              33.5080308
+            ],
+            [
+              -7.630653,
+              33.5084057
+            ],
+            [
+              -7.6314208,
+              33.508266
+            ]
+          ]
+        ]
+      },
+      "id": "way/1057612990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1231394566",
+        "building": "yes",
+        "name": "Youth Hostel International",
+        "name:en": "Youth Hostel International",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6173714,
+              33.6004366
+            ],
+            [
+              -7.6174412,
+              33.6002807
+            ],
+            [
+              -7.6173426,
+              33.6002466
+            ],
+            [
+              -7.617266,
+              33.6004035
+            ],
+            [
+              -7.6173714,
+              33.6004366
+            ]
+          ]
+        ]
+      },
+      "id": "way/1231394566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1287837026",
+        "building": "yes",
+        "check_date": "2024-05-30",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Las vegas Hotel",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:paypal": "yes",
+        "payment:visa": "yes",
+        "rooms": "30",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6281741,
+              33.5657319
+            ],
+            [
+              -7.6279523,
+              33.5657447
+            ],
+            [
+              -7.6279985,
+              33.5659784
+            ],
+            [
+              -7.628208,
+              33.5659578
+            ],
+            [
+              -7.6281741,
+              33.5657319
+            ]
+          ]
+        ]
+      },
+      "id": "way/1287837026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308028467",
+        "area": "yes",
+        "artwork_type": "mural",
+        "name": "Art Displays",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6580947,
+              33.5640407
+            ],
+            [
+              -7.6581817,
+              33.5640632
+            ],
+            [
+              -7.6583516,
+              33.5636772
+            ],
+            [
+              -7.6582562,
+              33.5636537
+            ],
+            [
+              -7.6580947,
+              33.5640407
+            ]
+          ]
+        ]
+      },
+      "id": "way/1308028467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327654567",
+        "addr:street": "Rue Oumayma Essayeh زنقة أميمة السايح",
+        "building": "construction",
+        "building:levels": "17",
+        "check_date": "2025-09-06",
+        "name": "LXR by Hilton",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6389413,
+              33.5886475
+            ],
+            [
+              -7.6387587,
+              33.5887158
+            ],
+            [
+              -7.6389394,
+              33.5890508
+            ],
+            [
+              -7.6391219,
+              33.5889825
+            ],
+            [
+              -7.6389413,
+              33.5886475
+            ]
+          ]
+        ]
+      },
+      "id": "way/1327654567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1349656824",
+        "check_date": "2025-01-09",
+        "contact:facebook": "https://www.facebook.com/crazypark.ma",
+        "contact:instagram": "https://www.instagram.com/crazyparkcasa/",
+        "contact:tiktok": "https://www.tiktok.com/@crazypark_casa",
+        "email": "info@crazypark.ma",
+        "mobile": "+212679353535",
+        "name": "Crazy Park",
+        "phone": "+212522290507",
+        "start_date": "2005",
+        "tourism": "theme_park",
+        "website": "https://crazypark.ma/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7686155,
+              33.5388912
+            ],
+            [
+              -7.7687451,
+              33.538875
+            ],
+            [
+              -7.7701345,
+              33.5383513
+            ],
+            [
+              -7.769999,
+              33.5381009
+            ],
+            [
+              -7.7700256,
+              33.5380896
+            ],
+            [
+              -7.7698846,
+              33.5378513
+            ],
+            [
+              -7.768387,
+              33.5384663
+            ],
+            [
+              -7.7686155,
+              33.5388912
+            ]
+          ]
+        ]
+      },
+      "id": "way/1349656824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383243055",
+        "access": "customers",
+        "name": "Loupi Jungle",
+        "tourism": "theme_park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6670435,
+              33.5563698
+            ],
+            [
+              -7.6670953,
+              33.5567771
+            ],
+            [
+              -7.6684846,
+              33.5566202
+            ],
+            [
+              -7.6683916,
+              33.5561849
+            ],
+            [
+              -7.6670435,
+              33.5563698
+            ]
+          ]
+        ]
+      },
+      "id": "way/1383243055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388403773",
+        "alt_name": "Villa Roudani",
+        "architect": "Diego Jimenez",
+        "building": "house",
+        "check_date": "2025-05-21",
+        "commons": "Fichier:Villa des arts Casablanca 02.jpg",
+        "house": "detached",
+        "name": "Villa des Arts دار الفنون",
+        "name:ar": "دار الفنون",
+        "name:fr": "Villa des Arts",
+        "old_name": "Les Jasmines",
+        "owner": "Fondation Al Mada",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.629588,
+              33.5865393
+            ],
+            [
+              -7.6296723,
+              33.5864517
+            ],
+            [
+              -7.6296588,
+              33.5864426
+            ],
+            [
+              -7.6296955,
+              33.586405
+            ],
+            [
+              -7.6296165,
+              33.5863534
+            ],
+            [
+              -7.6296154,
+              33.5863297
+            ],
+            [
+              -7.6295871,
+              33.5863106
+            ],
+            [
+              -7.6295307,
+              33.5863182
+            ],
+            [
+              -7.6295037,
+              33.5863424
+            ],
+            [
+              -7.6295059,
+              33.5863628
+            ],
+            [
+              -7.629497,
+              33.5863646
+            ],
+            [
+              -7.6294881,
+              33.5863674
+            ],
+            [
+              -7.6294801,
+              33.5863709
+            ],
+            [
+              -7.6294736,
+              33.5863752
+            ],
+            [
+              -7.6294683,
+              33.5863821
+            ],
+            [
+              -7.6294655,
+              33.5863902
+            ],
+            [
+              -7.6294637,
+              33.5863984
+            ],
+            [
+              -7.6294639,
+              33.586406
+            ],
+            [
+              -7.6294393,
+              33.5864083
+            ],
+            [
+              -7.6294141,
+              33.5864331
+            ],
+            [
+              -7.6294198,
+              33.586446
+            ],
+            [
+              -7.6294378,
+              33.5864584
+            ],
+            [
+              -7.6294335,
+              33.5864657
+            ],
+            [
+              -7.6294321,
+              33.5864734
+            ],
+            [
+              -7.6294332,
+              33.5864803
+            ],
+            [
+              -7.6294367,
+              33.586487
+            ],
+            [
+              -7.6294422,
+              33.5864925
+            ],
+            [
+              -7.629451,
+              33.5864972
+            ],
+            [
+              -7.6294589,
+              33.5864991
+            ],
+            [
+              -7.6294671,
+              33.5864991
+            ],
+            [
+              -7.6294763,
+              33.5864969
+            ],
+            [
+              -7.6294843,
+              33.5864924
+            ],
+            [
+              -7.6295,
+              33.586503
+            ],
+            [
+              -7.6295131,
+              33.5864893
+            ],
+            [
+              -7.629588,
+              33.5865393
+            ]
+          ]
+        ]
+      },
+      "id": "way/1388403773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/57853969",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 6002963,
+            "reltags": {
+              "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+              "amenity": "place_of_worship",
+              "building": "yes",
+              "layer": "1",
+              "name": "Mosquée Hassan II مسجد الحسن الثاني",
+              "name:ar": "مسجد الحسن الثاني",
+              "name:de": "Hassan II.-Moschee",
+              "name:en": "Hassan II Mosque",
+              "name:es": "Mezquita Hassan II",
+              "name:fr": "Mosquée Hassan II",
+              "name:he": "מסגד חסן השני",
+              "name:hi": "हसन द्वितीय मस्जिद",
+              "name:it": "Moschea di Hassan II",
+              "name:ml": "ഹസ്സൻ II മുസ്ലിം പള്ളി",
+              "name:nl": "Hassan II-moskee",
+              "name:zh": "哈桑二世清真寺",
+              "religion": "muslim",
+              "start_date": "1993",
+              "tourism": "attraction",
+              "type": "building",
+              "wheelchair": "yes",
+              "wikidata": "Q41346",
+              "wikipedia": "en:Hassan II Mosque"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.6334504,
+            33.6081067
+          ],
+          [
+            -7.6333597,
+            33.6081029
+          ],
+          [
+            -7.6333736,
+            33.6078803
+          ],
+          [
+            -7.6333507,
+            33.6078801
+          ],
+          [
+            -7.6333553,
+            33.6078209
+          ],
+          [
+            -7.6333026,
+            33.6077937
+          ],
+          [
+            -7.6333147,
+            33.6077795
+          ],
+          [
+            -7.6328941,
+            33.6075652
+          ],
+          [
+            -7.6328847,
+            33.6075774
+          ],
+          [
+            -7.6328304,
+            33.6075493
+          ],
+          [
+            -7.6327662,
+            33.6075764
+          ],
+          [
+            -7.6327596,
+            33.6075628
+          ],
+          [
+            -7.6323181,
+            33.6077506
+          ],
+          [
+            -7.6323243,
+            33.6077627
+          ],
+          [
+            -7.6322656,
+            33.6077874
+          ],
+          [
+            -7.6322681,
+            33.607854
+          ],
+          [
+            -7.6322553,
+            33.607854
+          ],
+          [
+            -7.6322463,
+            33.6080495
+          ],
+          [
+            -7.6321497,
+            33.6080447
+          ],
+          [
+            -7.6321601,
+            33.6078505
+          ],
+          [
+            -7.632162,
+            33.6078152
+          ],
+          [
+            -7.6321456,
+            33.6078148
+          ],
+          [
+            -7.632147,
+            33.6077716
+          ],
+          [
+            -7.6321491,
+            33.6077091
+          ],
+          [
+            -7.6322008,
+            33.6076865
+          ],
+          [
+            -7.632269,
+            33.6076567
+          ],
+          [
+            -7.6322764,
+            33.6076706
+          ],
+          [
+            -7.6327176,
+            33.6074789
+          ],
+          [
+            -7.6327101,
+            33.607464
+          ],
+          [
+            -7.632772,
+            33.607437
+          ],
+          [
+            -7.6328401,
+            33.6074073
+          ],
+          [
+            -7.6329138,
+            33.6074411
+          ],
+          [
+            -7.6329633,
+            33.6074638
+          ],
+          [
+            -7.6329548,
+            33.6074754
+          ],
+          [
+            -7.6333878,
+            33.6076784
+          ],
+          [
+            -7.6333965,
+            33.6076624
+          ],
+          [
+            -7.6334641,
+            33.6076933
+          ],
+          [
+            -7.6335026,
+            33.607711
+          ],
+          [
+            -7.6334961,
+            33.6078338
+          ],
+          [
+            -7.6334936,
+            33.6078815
+          ],
+          [
+            -7.6334645,
+            33.6078812
+          ],
+          [
+            -7.6334504,
+            33.6081067
+          ]
+        ]
+      },
+      "id": "way/57853969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118173667",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 6002963,
+            "reltags": {
+              "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+              "amenity": "place_of_worship",
+              "building": "yes",
+              "layer": "1",
+              "name": "Mosquée Hassan II مسجد الحسن الثاني",
+              "name:ar": "مسجد الحسن الثاني",
+              "name:de": "Hassan II.-Moschee",
+              "name:en": "Hassan II Mosque",
+              "name:es": "Mezquita Hassan II",
+              "name:fr": "Mosquée Hassan II",
+              "name:he": "מסגד חסן השני",
+              "name:hi": "हसन द्वितीय मस्जिद",
+              "name:it": "Moschea di Hassan II",
+              "name:ml": "ഹസ്സൻ II മുസ്ലിം പള്ളി",
+              "name:nl": "Hassan II-moskee",
+              "name:zh": "哈桑二世清真寺",
+              "religion": "muslim",
+              "start_date": "1993",
+              "tourism": "attraction",
+              "type": "building",
+              "wheelchair": "yes",
+              "wikidata": "Q41346",
+              "wikipedia": "en:Hassan II Mosque"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.6316626,
+            33.6081026
+          ],
+          [
+            -7.6316074,
+            33.6088731
+          ],
+          [
+            -7.6313572,
+            33.6088648
+          ],
+          [
+            -7.6312715,
+            33.6088437
+          ],
+          [
+            -7.6311783,
+            33.6088016
+          ],
+          [
+            -7.6311057,
+            33.6087496
+          ],
+          [
+            -7.6310457,
+            33.6086842
+          ],
+          [
+            -7.6310048,
+            33.6086128
+          ],
+          [
+            -7.630982,
+            33.6085366
+          ],
+          [
+            -7.6309421,
+            33.6085351
+          ],
+          [
+            -7.6309509,
+            33.608364
+          ],
+          [
+            -7.6309982,
+            33.6083645
+          ],
+          [
+            -7.6310337,
+            33.6082942
+          ],
+          [
+            -7.6310659,
+            33.6082515
+          ],
+          [
+            -7.6311229,
+            33.6081971
+          ],
+          [
+            -7.6311878,
+            33.608154
+          ],
+          [
+            -7.6312693,
+            33.6081181
+          ],
+          [
+            -7.6313405,
+            33.6080992
+          ],
+          [
+            -7.6314298,
+            33.6080892
+          ],
+          [
+            -7.6316626,
+            33.6081026
+          ]
+        ]
+      },
+      "id": "way/118173667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416251743",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 6002963,
+            "reltags": {
+              "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+              "amenity": "place_of_worship",
+              "building": "yes",
+              "layer": "1",
+              "name": "Mosquée Hassan II مسجد الحسن الثاني",
+              "name:ar": "مسجد الحسن الثاني",
+              "name:de": "Hassan II.-Moschee",
+              "name:en": "Hassan II Mosque",
+              "name:es": "Mezquita Hassan II",
+              "name:fr": "Mosquée Hassan II",
+              "name:he": "מסגד חסן השני",
+              "name:hi": "हसन द्वितीय मस्जिद",
+              "name:it": "Moschea di Hassan II",
+              "name:ml": "ഹസ്സൻ II മുസ്ലിം പള്ളി",
+              "name:nl": "Hassan II-moskee",
+              "name:zh": "哈桑二世清真寺",
+              "religion": "muslim",
+              "start_date": "1993",
+              "tourism": "attraction",
+              "type": "building",
+              "wheelchair": "yes",
+              "wikidata": "Q41346",
+              "wikipedia": "en:Hassan II Mosque"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.632809,
+            33.6078423
+          ],
+          [
+            -7.6329813,
+            33.6080021
+          ],
+          [
+            -7.6328777,
+            33.6080798
+          ],
+          [
+            -7.6327735,
+            33.608157
+          ],
+          [
+            -7.6326812,
+            33.608071
+          ],
+          [
+            -7.6326017,
+            33.6079972
+          ],
+          [
+            -7.632809,
+            33.6078423
+          ]
+        ]
+      },
+      "id": "way/416251743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416251746",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 6002963,
+            "reltags": {
+              "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+              "amenity": "place_of_worship",
+              "building": "yes",
+              "layer": "1",
+              "name": "Mosquée Hassan II مسجد الحسن الثاني",
+              "name:ar": "مسجد الحسن الثاني",
+              "name:de": "Hassan II.-Moschee",
+              "name:en": "Hassan II Mosque",
+              "name:es": "Mezquita Hassan II",
+              "name:fr": "Mosquée Hassan II",
+              "name:he": "מסגד חסן השני",
+              "name:hi": "हसन द्वितीय मस्जिद",
+              "name:it": "Moschea di Hassan II",
+              "name:ml": "ഹസ്സൻ II മുസ്ലിം പള്ളി",
+              "name:nl": "Hassan II-moskee",
+              "name:zh": "哈桑二世清真寺",
+              "religion": "muslim",
+              "start_date": "1993",
+              "tourism": "attraction",
+              "type": "building",
+              "wheelchair": "yes",
+              "wikidata": "Q41346",
+              "wikipedia": "en:Hassan II Mosque"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.6327837,
+            33.6081121
+          ],
+          [
+            -7.6326656,
+            33.6079996
+          ],
+          [
+            -7.6328072,
+            33.6078965
+          ],
+          [
+            -7.6329253,
+            33.608009
+          ],
+          [
+            -7.6327837,
+            33.6081121
+          ]
+        ]
+      },
+      "id": "way/416251746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416471474",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 6002963,
+            "reltags": {
+              "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+              "amenity": "place_of_worship",
+              "building": "yes",
+              "layer": "1",
+              "name": "Mosquée Hassan II مسجد الحسن الثاني",
+              "name:ar": "مسجد الحسن الثاني",
+              "name:de": "Hassan II.-Moschee",
+              "name:en": "Hassan II Mosque",
+              "name:es": "Mezquita Hassan II",
+              "name:fr": "Mosquée Hassan II",
+              "name:he": "מסגד חסן השני",
+              "name:hi": "हसन द्वितीय मस्जिद",
+              "name:it": "Moschea di Hassan II",
+              "name:ml": "ഹസ്സൻ II മുസ്ലിം പള്ളി",
+              "name:nl": "Hassan II-moskee",
+              "name:zh": "哈桑二世清真寺",
+              "religion": "muslim",
+              "start_date": "1993",
+              "tourism": "attraction",
+              "type": "building",
+              "wheelchair": "yes",
+              "wikidata": "Q41346",
+              "wikipedia": "en:Hassan II Mosque"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.6316626,
+            33.6081026
+          ],
+          [
+            -7.6316709,
+            33.6080211
+          ],
+          [
+            -7.6321497,
+            33.6080447
+          ],
+          [
+            -7.6322463,
+            33.6080495
+          ],
+          [
+            -7.6326812,
+            33.608071
+          ],
+          [
+            -7.6327735,
+            33.608157
+          ],
+          [
+            -7.6328777,
+            33.6080798
+          ],
+          [
+            -7.6333597,
+            33.6081029
+          ],
+          [
+            -7.6334504,
+            33.6081067
+          ],
+          [
+            -7.6338561,
+            33.6081238
+          ],
+          [
+            -7.6338103,
+            33.6090464
+          ],
+          [
+            -7.6329355,
+            33.6090061
+          ],
+          [
+            -7.6329346,
+            33.6090393
+          ],
+          [
+            -7.6328348,
+            33.6090357
+          ],
+          [
+            -7.6328365,
+            33.6090016
+          ],
+          [
+            -7.6326425,
+            33.6089927
+          ],
+          [
+            -7.6326406,
+            33.6090284
+          ],
+          [
+            -7.6325352,
+            33.6090231
+          ],
+          [
+            -7.6325388,
+            33.6089879
+          ],
+          [
+            -7.6316053,
+            33.6089486
+          ],
+          [
+            -7.6316074,
+            33.6088731
+          ],
+          [
+            -7.6316626,
+            33.6081026
+          ]
+        ]
+      },
+      "id": "way/416471474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/516618724",
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "brand": "Novotel",
+        "brand:fr": "Novotel",
+        "brand:wikidata": "Q420545",
+        "brand:wikipedia": "fr:Novotel",
+        "name": "Novotel Casablanca City Centre",
+        "name:fr": "Novotel Casablanca City Centre",
+        "operator": "Accor",
+        "operator:fr": "Accor",
+        "operator:wikidata": "Q212599",
+        "operator:wikipedia": "fr:Accor",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://all.accor.com/hotel/6572/index.fr.shtml"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6137821,
+          33.5984192
+        ]
+      },
+      "id": "node/516618724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566450743",
+        "name": "Hôtel Galia",
+        "name:fr": "Hôtel Galia",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6125481,
+          33.5939334
+        ]
+      },
+      "id": "node/566450743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/770235536",
+        "check_date": "2025-04-24",
+        "name": "Twin Center",
+        "tourism": "attraction",
+        "wikidata": "Q2743636",
+        "wikimedia_commons": "File:Twin Center 2.jpg",
+        "wikipedia": "en:Casablanca Twin Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6322923,
+          33.5865844
+        ]
+      },
+      "id": "node/770235536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1095130670",
+        "_waypoint_": "yes",
+        "name": "Zenith",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6645555,
+          33.5365506
+        ]
+      },
+      "id": "node/1095130670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1139055213",
+        "addr:city": "Casablanca",
+        "addr:housenumber": "31",
+        "addr:street": "Boulevard Hassan Seghir",
+        "email": "info@hoteldiwancasablanca.com",
+        "fax": "+212 22 447 472",
+        "name": "Hôtel Divan",
+        "name:fr": "Hôtel Divan",
+        "phone": "+212 22 446 514",
+        "tourism": "hotel",
+        "website": "https://www.hoteldiwancasablanca.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6096273,
+          33.5960268
+        ]
+      },
+      "id": "node/1139055213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1163274346",
+        "name": "East West Hotel",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6299633,
+          33.5925751
+        ]
+      },
+      "id": "node/1163274346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1246675480",
+        "addr:housenumber": "20",
+        "addr:street": "Place Ahmad el Bidaoui",
+        "check_date": "2025-10-09",
+        "name": "Hôtel central",
+        "name:fr": "Hôtel central",
+        "phone": "+212661162826",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6173257,
+          33.6000885
+        ]
+      },
+      "id": "node/1246675480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464579548",
+        "addr:street": "Rue Mohammed ben radi slaoui",
+        "name": "Boustane",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5956407,
+          33.5904363
+        ]
+      },
+      "id": "node/1464579548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464579572",
+        "addr:street": "Boulevard Moulay Youssef",
+        "name": "Hôtel & Spa Impérial Casablanca",
+        "name:fr": "Hôtel & Spa Impérial Casablanca",
+        "tourism": "hotel",
+        "website": "https://www.hotelimperialcasablanca.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6060779,
+          33.593771
+        ]
+      },
+      "id": "node/1464579572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464587471",
+        "name": "Hotel Val d'Anfa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6777683,
+          33.5917103
+        ]
+      },
+      "id": "node/1464587471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1746951961",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6287368,
+          33.5953506
+        ]
+      },
+      "id": "node/1746951961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2009477169",
+        "email": "reservation_casa@moroccanhousehotels.com",
+        "fax": "+212 5 22 54 35 70",
+        "name": "Hôtel Moroccan House",
+        "name:fr": "Hôtel Moroccan House",
+        "phone": "+212 5 22 54 35 66",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6091804,
+          33.5960343
+        ]
+      },
+      "id": "node/2009477169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201171514",
+        "name": "Hôtel Business",
+        "name:fr": "Hôtel Business",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6233271,
+          33.5820342
+        ]
+      },
+      "id": "node/2201171514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2207627567",
+        "addr:city": "Casablanca",
+        "addr:street": "Boulevard de la Corniche",
+        "name": "Hôtel Azur",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6772198,
+          33.595557
+        ]
+      },
+      "id": "node/2207627567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2361342681",
+        "name": "Casablanca Sweet Home Maarif",
+        "name:fr": "Casablanca Sweet Home Maarif",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6391836,
+          33.583255
+        ]
+      },
+      "id": "node/2361342681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2429582908",
+        "name": "Hôtel Royal Mansour",
+        "name:fr": "Hôtel Royal Mansour",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.614483,
+          33.5969339
+        ]
+      },
+      "id": "node/2429582908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582305766",
+        "name": "Hotel Dawliz",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6605428,
+          33.6011216
+        ]
+      },
+      "id": "node/2582305766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714802294",
+        "name": "Art palace et spa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6351888,
+          33.5910024
+        ]
+      },
+      "id": "node/2714802294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2778538969",
+        "name": "Mahkama du Pacha",
+        "name:fr": "Mahkama du Pacha",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6063203,
+          33.5789531
+        ]
+      },
+      "id": "node/2778538969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941283272",
+        "addr:city": "Casablanca",
+        "addr:housenumber": "87",
+        "addr:street": "Rue Allal Ben Abdellah",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hôtel Touring",
+        "name:fr": "Hôtel Touring",
+        "phone": "+212 5 22 31 02 16",
+        "rooms": "40",
+        "smoking": "no",
+        "stars": "1",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.612959,
+          33.5954478
+        ]
+      },
+      "id": "node/2941283272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3114995988",
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "brand": "Sofitel",
+        "brand:fr": "Sofitel",
+        "brand:wikidata": "Q749431",
+        "brand:wikipedia": "fr:Sofitel",
+        "name": "Sofitel",
+        "operator": "Accor",
+        "operator:fr": "Accor",
+        "operator:wikidata": "Q212599",
+        "operator:wikipedia": "fr:Accor",
+        "stars": "5",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.613945,
+          33.5980098
+        ]
+      },
+      "id": "node/3114995988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3124725543",
+        "name": "Hôtel Transatlantique",
+        "name:fr": "Hôtel Transatlantique",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.614221,
+          33.5923391
+        ]
+      },
+      "id": "node/3124725543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3207308761",
+        "name": "Le Doge",
+        "operator": "Relais et châteaux",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6234621,
+          33.5927529
+        ]
+      },
+      "id": "node/3207308761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3214359705",
+        "addr:housenumber": "12",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Kamal Mohamed",
+        "check_date": "2025-10-23",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Oum Palace",
+        "note": "Free internet for guests in rooms. Spa and fitness. No bar.",
+        "phone": "+212 522201500",
+        "tourism": "hotel",
+        "website": "https://www.oumpalace.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6143281,
+          33.596253
+        ]
+      },
+      "id": "node/3214359705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3214364734",
+        "addr:street": "Boulevard de la Corniche شارع الكورنيش",
+        "branch": "Casablanca",
+        "brand": "Four Seasons",
+        "brand:wikidata": "Q1424786",
+        "check_date": "2025-03-06",
+        "name": "Four Seasons",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6637581,
+          33.5995455
+        ]
+      },
+      "id": "node/3214364734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3346762459",
+        "name": "Hotel Les Almohades",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6233917,
+          33.5932591
+        ]
+      },
+      "id": "node/3346762459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3359706156",
+        "name": "Windsor",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6246635,
+          33.5951283
+        ]
+      },
+      "id": "node/3359706156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426393277",
+        "name": "Kenzi Basma",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6206582,
+          33.5944832
+        ]
+      },
+      "id": "node/3426393277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3427843813",
+        "addr:city": "Casablanca",
+        "addr:street": "Place sidi Mohamed Belvédère",
+        "name": "Al Walid Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5930131,
+          33.5903353
+        ]
+      },
+      "id": "node/3427843813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3472854992",
+        "check_date": "2026-03-18",
+        "name": "Hôtel de Foucauld",
+        "name:fr": "Hôtel de Foucauld",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6154743,
+          33.596247
+        ]
+      },
+      "id": "node/3472854992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3472859893",
+        "name": "Excelsior",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6164213,
+          33.596235
+        ]
+      },
+      "id": "node/3472859893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3797205281",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Manzil Hotel",
+        "smoking": "yes",
+        "stars": "2",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5807799,
+          33.600628
+        ]
+      },
+      "id": "node/3797205281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3815615860",
+        "name": "l'atelier de la source du lion",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6165725,
+          33.5860579
+        ]
+      },
+      "id": "node/3815615860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3988497045",
+        "name": "Ibis Casablanca Nearshore",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6402617,
+          33.5254072
+        ]
+      },
+      "id": "node/3988497045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052044147",
+        "addr:housenumber": "42",
+        "addr:postcode": "20100",
+        "addr:street": "Rue Abou Al Mahassine Royani زنقة أبو المحاسن الروياني",
+        "name": "L'Atelier 21",
+        "phone": "+212 5 22 98 17 85",
+        "tourism": "gallery",
+        "website": "http://www.atelier21.ma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6432573,
+          33.5861057
+        ]
+      },
+      "id": "node/4052044147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052044158",
+        "addr:housenumber": "13",
+        "addr:street": "Rue Al Kaissi زنقة القيسي",
+        "artwork_type": "Loft_Art_Gallery",
+        "check_date": "2025-04-06",
+        "name": "Loft Art Gallery",
+        "phone": "+212522944765",
+        "tourism": "gallery",
+        "website": "https://www.loftartgallery.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6438206,
+          33.5922976
+        ]
+      },
+      "id": "node/4052044158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052044159",
+        "addr:city": "Casablanca",
+        "addr:housenumber": "5",
+        "addr:street": "Rue Al Manaziz",
+        "name": "Galerie Nadar",
+        "phone": "+212 5 22 23 69 00",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6334062,
+          33.5859385
+        ]
+      },
+      "id": "node/4052044159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4097261684",
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:housenumber": "45 lot",
+        "addr:postcode": "20000",
+        "addr:street": "Lina Sidi Maarouf",
+        "internet_access": "wlan",
+        "name": "Dar Diafa",
+        "phone": "+212661324824",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.642199,
+          33.5163192
+        ]
+      },
+      "id": "node/4097261684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111697662",
+        "addr:city": "Casablanca",
+        "addr:street": "Rue de la Chaouia",
+        "name": "Hôtel Colbert",
+        "name:fr": "Hôtel Colbert",
+        "smoking": "isolated",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6128921,
+          33.5948855
+        ]
+      },
+      "id": "node/4111697662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144872868",
+        "addr:housenumber": "36",
+        "addr:street": "Rue Pierre Parent زنقة بيير باران",
+        "name": "Les Ambassadeurs",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6079929,
+          33.5942261
+        ]
+      },
+      "id": "node/4144872868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193547796",
+        "name": "Saisons",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6152269,
+          33.5969067
+        ]
+      },
+      "id": "node/4193547796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198995694",
+        "addr:housenumber": "14",
+        "addr:street": "rue baalabak",
+        "internet_access": "wlan",
+        "name": "The Seven Hotel and Spa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6123084,
+          33.5873411
+        ]
+      },
+      "id": "node/4198995694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4202656791",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6781921,
+          33.5754473
+        ]
+      },
+      "id": "node/4202656791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4207704589",
+        "name": "Boutique Hotel Gauthier",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6295392,
+          33.587272
+        ]
+      },
+      "id": "node/4207704589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4221347655",
+        "name": "Terminus",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5921356,
+          33.5895504
+        ]
+      },
+      "id": "node/4221347655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4225325207",
+        "addr:street": "Boulevard de la Liberté",
+        "name": "Hôtel Casablanca",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6107526,
+          33.5850402
+        ]
+      },
+      "id": "node/4225325207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4225325215",
+        "addr:street": "Boulevard d'Alsace",
+        "name": "سوق بنجدية",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6107151,
+          33.5856759
+        ]
+      },
+      "id": "node/4225325215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4227547590",
+        "addr:housenumber": "94",
+        "addr:street": "Rue de Dejla",
+        "name": "Résidence Casablanca",
+        "phone": "22298251",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.633777,
+          33.5939536
+        ]
+      },
+      "id": "node/4227547590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4291211323",
+        "addr:city": "Casablanca",
+        "addr:housenumber": "200",
+        "addr:postcode": "20190",
+        "addr:street": "Lotissement El Fath 2",
+        "name": "Kenzi Sidi Maarouf",
+        "operator": "Kenzi Hotels",
+        "phone": "+212 5 22 58 27 27",
+        "tourism": "hotel",
+        "website": "https://www.kenzi-hotels.com/kenzisidimaarouf/default-fr.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6433206,
+          33.5396227
+        ]
+      },
+      "id": "node/4291211323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4392742898",
+        "addr:postcode": "20250",
+        "addr:street": "Boulevard des Almohades",
+        "check_date": "2025-10-09",
+        "internet_access": "wlan",
+        "name": "Youth Hostel International",
+        "name:fr": "Youth Hostel International",
+        "operator": "Hi Hostels",
+        "tourism": "hostel",
+        "website": "https://hihostels.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617292,
+          33.6003528
+        ]
+      },
+      "id": "node/4392742898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396925489",
+        "name": "la Maison",
+        "name:fr": "la Maison",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5452035,
+          33.6091346
+        ]
+      },
+      "id": "node/4396925489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419871198",
+        "name": "gîte Nadia",
+        "name:fr": "gîte Nadia",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.711213,
+          33.5060725
+        ]
+      },
+      "id": "node/4419871198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428885189",
+        "name": "zitoni",
+        "name:fr": "zitoni",
+        "tourism": "motel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.691632,
+          33.5417071
+        ]
+      },
+      "id": "node/4428885189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437884091",
+        "name:en": "Souk des olives",
+        "name:ru": "Оливковый базар",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6050554,
+          33.5771975
+        ]
+      },
+      "id": "node/4437884091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444757090",
+        "name:en": "hotel Helvetia",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6168875,
+          33.5986794
+        ]
+      },
+      "id": "node/4444757090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446395089",
+        "name:en": "Turism info",
+        "name:ro": "Turism info",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6169946,
+          33.6004668
+        ]
+      },
+      "id": "node/4446395089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537398790",
+        "name:en": "hotel Maâmoura",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.613287,
+          33.5925969
+        ]
+      },
+      "id": "node/4537398790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4590444543",
+        "name": "Domo Hôtel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6404191,
+          33.5374259
+        ]
+      },
+      "id": "node/4590444543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4597955190",
+        "name": "My Home",
+        "name:fr": "My Home",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6967387,
+          33.5386658
+        ]
+      },
+      "id": "node/4597955190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4607476907",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6548177,
+          33.6107346
+        ]
+      },
+      "id": "node/4607476907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4618130389",
+        "name": "سد كنون",
+        "name:ar": "سد كنون",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6933713,
+          33.5202668
+        ]
+      },
+      "id": "node/4618130389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732234710",
+        "name": "Mehdi House",
+        "operator": "Mehdi",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6208392,
+          33.5991958
+        ]
+      },
+      "id": "node/4732234710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838427864",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6557006,
+          33.6093045
+        ]
+      },
+      "id": "node/4838427864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4851486024",
+        "addr:street": "Rue Dixmude",
+        "name": "Leyna",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6117792,
+          33.5852553
+        ]
+      },
+      "id": "node/4851486024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5011618528",
+        "name": "Elmanjra قسارية المنجرة",
+        "name:ar": "قسارية المنجرة",
+        "name:fr": "Elmanjra",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6030726,
+          33.5685183
+        ]
+      },
+      "id": "node/5011618528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074127721",
+        "name:en": "View on mosque",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6505182,
+          33.6097884
+        ]
+      },
+      "id": "node/5074127721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084135458",
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:housenumber": "93",
+        "addr:street": "Place Oued Al Makhazine",
+        "name": "Hotel Windsor",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6252246,
+          33.5952857
+        ]
+      },
+      "id": "node/5084135458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104934121",
+        "addr:street": "Boulevard Bahmad",
+        "brand": "Accorhotels",
+        "check_date": "2026-03-05",
+        "internet_access": "wlan",
+        "name": "Hotel Ibis Casa-Voyageurs",
+        "tourism": "hotel",
+        "website": "https://www.accorhotels.com/gb/hotel-A0G4-ibis-casa-voyageurs/index.shtml"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5917971,
+          33.5893437
+        ]
+      },
+      "id": "node/5104934121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5151162922",
+        "name": "ibis",
+        "name:en": "ibis",
+        "name:fr": "ibis",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6404134,
+          33.5253511
+        ]
+      },
+      "id": "node/5151162922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5314559432",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6131269,
+          33.5991281
+        ]
+      },
+      "id": "node/5314559432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5363532321",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6291368,
+          33.6064339
+        ]
+      },
+      "id": "node/5363532321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5410504822",
+        "name": "Fouad",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6475448,
+          33.5288913
+        ]
+      },
+      "id": "node/5410504822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5476241921",
+        "air_conditioning": "yes",
+        "fee": "yes",
+        "name:de": "Hassan II Moschee Museum",
+        "name:en": "Hassan II Mosque Museum",
+        "name:fr": "museum & Billet",
+        "name:ru": "Музей мечети Хасана II",
+        "operator": "Fondation Hassan II",
+        "toilets": "yes",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6304794,
+          33.6055002
+        ]
+      },
+      "id": "node/5476241921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5526278321",
+        "name": "Apolline flat",
+        "name:en": "Apolline's home",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6282126,
+          33.5830148
+        ]
+      },
+      "id": "node/5526278321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5549540121",
+        "addr:housenumber": "138",
+        "addr:street": "Boulevard Moulay Youssef شارع مولاي يوسف",
+        "check_date": "2025-06-12",
+        "email": "contact@melliber-apparthotel.com",
+        "internet_access": "wlan",
+        "name": "Melliber Appart Hotel",
+        "phone": "+212 5 22 49 64 96",
+        "tourism": "hotel",
+        "website": "https://www.melliber-apparthotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6327837,
+          33.6043045
+        ]
+      },
+      "id": "node/5549540121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567300522",
+        "name": "Cas 1364",
+        "shop": "travel_agency",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6834444,
+          33.5407222
+        ]
+      },
+      "id": "node/5567300522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567300524",
+        "name": "Casa 1373",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6846944,
+          33.5718611
+        ]
+      },
+      "id": "node/5567300524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567324122",
+        "name": "Cas 1354",
+        "office": "estate_agent",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5358056,
+          33.5490556
+        ]
+      },
+      "id": "node/5567324122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567343922",
+        "name": "Cas 1388",
+        "shop": "sports",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6310278,
+          33.5066111
+        ]
+      },
+      "id": "node/5567343922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5579551207",
+        "addr:street": "Boulevard Bahmad",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5920764,
+          33.5895386
+        ]
+      },
+      "id": "node/5579551207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5589045023",
+        "name": "Hôtel Mon Rêve",
+        "name:fr": "Hôtel Mon Rêve",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6124163,
+          33.5953947
+        ]
+      },
+      "id": "node/5589045023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5642713675",
+        "addr:city": "Casablanca",
+        "addr:street": "Boulevard Houphouët Boigny",
+        "name": "Hôtel Plaza",
+        "name:fr": "Hôtel Plaza",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6158106,
+          33.5974472
+        ]
+      },
+      "id": "node/5642713675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657167291",
+        "addr:street": "Boulevard de la Résistance",
+        "name": "Kissariat Casa 1",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6068963,
+          33.5855641
+        ]
+      },
+      "id": "node/5657167291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657171572",
+        "addr:street": "Avenue Lalla Yacout",
+        "name": "Hotel Majestic",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6133195,
+          33.5910908
+        ]
+      },
+      "id": "node/5657171572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5670029278",
+        "addr:city": "Casablanca",
+        "addr:street": "Rue Théophile Gauthier",
+        "name": "Hotel Yto",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6331458,
+          33.5897726
+        ]
+      },
+      "id": "node/5670029278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5683654422",
+        "name": "Hôtel des Négociants",
+        "name:fr": "Hôtel des Négociants",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6130732,
+          33.5952809
+        ]
+      },
+      "id": "node/5683654422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5692094223",
+        "name": "Mouksit Mohamed",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6197021,
+          33.5845581
+        ]
+      },
+      "id": "node/5692094223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795633854",
+        "addr:street": "Boulevard Imam Malik",
+        "name": "إقامة حدائق ماجوريل \"أ\"",
+        "name:ar": "إقامة حدائق ماجوريل \"أ\"",
+        "name:en": "Résidence Les Jardins de Majorelle \"A\"",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4885726,
+          33.6140741
+        ]
+      },
+      "id": "node/5795633854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5835027185",
+        "name": "العالية مريم",
+        "name:ar": "العالية مريم",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7520219,
+          33.5301652
+        ]
+      },
+      "id": "node/5835027185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5910002885",
+        "addr:housenumber": "5",
+        "addr:postcode": "20500",
+        "addr:street": "Rue Idriss Al Mohammadi",
+        "internet_access": "wlan",
+        "name:en": "Carre Francais de Casablanca",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6504922,
+          33.5997314
+        ]
+      },
+      "id": "node/5910002885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051016990",
+        "addr:postcode": "20250",
+        "addr:street": "Rue Aït Ba Amrane",
+        "internet_access": "wlan",
+        "name": "Kyriad Résidence Casablanca",
+        "name:fr": "Kyriad Résidence Casablanca",
+        "name:ru": "Кириад Резиденс Касабланка",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.599533,
+          33.5943331
+        ]
+      },
+      "id": "node/6051016990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6064224685",
+        "addr:street": "mosquée el iraqui",
+        "name": "دارنا",
+        "name:ar": "دارنا",
+        "name:en": "Our home",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7071657,
+          33.5170808
+        ]
+      },
+      "id": "node/6064224685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6136489586",
+        "name": "Mon Domicile",
+        "name:fr": "Mon Domicile",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6720747,
+          33.5113289
+        ]
+      },
+      "id": "node/6136489586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139552685",
+        "name": "Kyriad Résidence",
+        "name:fr": "Kyriad Résidence",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5995204,
+          33.5939679
+        ]
+      },
+      "id": "node/6139552685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6261826886",
+        "name": "سوق جمله",
+        "name:ar": "سوق جمله",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6119686,
+          33.5903623
+        ]
+      },
+      "id": "node/6261826886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331604690",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6001765,
+          33.5948573
+        ]
+      },
+      "id": "node/6331604690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6429149187",
+        "name:en": "Hotel imperial",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6191105,
+          33.5986687
+        ]
+      },
+      "id": "node/6429149187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6462639585",
+        "name:en": "Hote nadia",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.618698,
+          33.6000622
+        ]
+      },
+      "id": "node/6462639585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6571218085",
+        "addr:housenumber": "104",
+        "addr:street": "Boulevard Yacoub El Mansour",
+        "name": "إقامة الوفاء",
+        "name:ar": "إقامة الوفاء",
+        "name:fr": "Résidence Al Wafaa",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6415767,
+          33.5756389
+        ]
+      },
+      "id": "node/6571218085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6571242487",
+        "name:en": "GH22",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7049053,
+          33.5528993
+        ]
+      },
+      "id": "node/6571242487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6712918886",
+        "name": "Kamali moeder huis",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6863055,
+          33.5488694
+        ]
+      },
+      "id": "node/6712918886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6731808685",
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Imam Malik",
+        "name": "إقامة حدائق ماجوريل \"ب\"",
+        "name:ar": "إقامة حدائق ماجوريل \"ب\"",
+        "name:en": "Résidence Les Jardins de Majorelle \"B\"",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4879417,
+          33.6139664
+        ]
+      },
+      "id": "node/6731808685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6731808686",
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Imam Malik",
+        "name": "إقامة حمو",
+        "name:ar": "إقامة حمو",
+        "name:en": "Résidence Hammo",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4872683,
+          33.6140118
+        ]
+      },
+      "id": "node/6731808686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735457286",
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Chefchaouni",
+        "name": "إقامة شمس البرنوصي",
+        "name:ar": "إقامة شمس البرنوصي",
+        "name:en": "Rès. Shems El Barnoussi",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.496857,
+          33.6270394
+        ]
+      },
+      "id": "node/6735457286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735457290",
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Chefchaouni",
+        "name": "إقامة املاك البرنوصي",
+        "name:ar": "إقامة املاك البرنوصي",
+        "name:en": "Rès. Amlak El barnoussi",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4894993,
+          33.6318721
+        ]
+      },
+      "id": "node/6735457290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6739732985",
+        "name": "Kamali moeder huis",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6860323,
+          33.5484018
+        ]
+      },
+      "id": "node/6739732985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6770445986",
+        "name:en": "Dar hamid jahjah drbna",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.508438,
+          33.5949992
+        ]
+      },
+      "id": "node/6770445986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6770445989",
+        "amenity": "bank",
+        "brand": "Crédit Agricole du Maroc القرض الفلاحي للمغرب",
+        "brand:ar": "القرض الفلاحي للمغرب",
+        "brand:fr": "Crédit Agricole du Maroc",
+        "brand:wikidata": "Q3006193",
+        "name": "Crédit Agricole du Maroc القرض الفلاحي للمغرب",
+        "name:ar": "القرض الفلاحي للمغرب",
+        "name:fr": "Crédit Agricole du Maroc",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6072524,
+          33.5926933
+        ]
+      },
+      "id": "node/6770445989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6772935186",
+        "amenity": "community_centre",
+        "name": "Jardin el karaaaaaaaaam",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5083951,
+          33.5951991
+        ]
+      },
+      "id": "node/6772935186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6772970285",
+        "highway": "rest_area",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.508405,
+          33.595192
+        ]
+      },
+      "id": "node/6772970285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6778163887",
+        "name": "مستشفى القرب",
+        "name:ar": "مستشفى القرب",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5071965,
+          33.595396
+        ]
+      },
+      "id": "node/6778163887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6795891587",
+        "name": "قاعة الافراح النور",
+        "name:ar": "قاعة الافراح النور",
+        "name:en": "AFREH ANNOUR",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5009263,
+          33.5988832
+        ]
+      },
+      "id": "node/6795891587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6833996035",
+        "name": "Dar mahassin iam",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5341563,
+          33.5999788
+        ]
+      },
+      "id": "node/6833996035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6990643385",
+        "name": "Garage Allel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6013663,
+          33.5752092
+        ]
+      },
+      "id": "node/6990643385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035230485",
+        "name:en": "Hotel Onomo Sidi Maarouf",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6321736,
+          33.521383
+        ]
+      },
+      "id": "node/7035230485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169120763",
+        "artwork_type": "statue",
+        "name": "Statue ZI",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5199604,
+          33.6089452
+        ]
+      },
+      "id": "node/7169120763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7176161085",
+        "name": "my",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6281286,
+          33.6040617
+        ]
+      },
+      "id": "node/7176161085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7270689589",
+        "addr:street": "Boulevard New York",
+        "name": "اقامة بيتي سكن",
+        "name:ar": "اقامة بيتي سكن",
+        "name:en": "Res. Bayti Sakan",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.499186,
+          33.6255685
+        ]
+      },
+      "id": "node/7270689589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7270703485",
+        "addr:street": "Boulevard New York",
+        "name": "اقامة العالية البرنوصي",
+        "name:ar": "اقامة العالية البرنوصي",
+        "name:en": "Res. Al alia Bernoussi",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4977009,
+          33.625396
+        ]
+      },
+      "id": "node/7270703485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7282188285",
+        "name": "Musée de la Fondation Abderrahman slaoui",
+        "name:fr": "Musée de la Fondation Abderrahman Slaoui",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6226155,
+          33.5924023
+        ]
+      },
+      "id": "node/7282188285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7700358485",
+        "name": "GH8, imm. 48",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7038153,
+          33.55359
+        ]
+      },
+      "id": "node/7700358485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7953395885",
+        "name:en": "Genirip",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5309409,
+          33.5715367
+        ]
+      },
+      "id": "node/7953395885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8373364417",
+        "name": "Posible airbnb",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6414867,
+          33.6029175
+        ]
+      },
+      "id": "node/8373364417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8758625993",
+        "addr:city": "Casablanca",
+        "addr:postcode": "20002",
+        "air_conditioning": "yes",
+        "brand": "Radisson",
+        "brand:fr": "Radisson",
+        "brand:wikidata": "Q1751979",
+        "brand:wikipedia": "fr:Radisson Hotels & Resorts",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hôtel Radisson",
+        "name:fr": "Hôtel Radisson",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.60811,
+          33.5934592
+        ]
+      },
+      "id": "node/8758625993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8792980917",
+        "name": "بيت",
+        "name:fr": "Maison",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6906519,
+          33.5452155
+        ]
+      },
+      "id": "node/8792980917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8988534817",
+        "addr:housenumber": "12",
+        "addr:postcode": "20330",
+        "addr:street": "Rue Lahcen el Basri",
+        "internet_access": "wlan",
+        "name:en": "My Loft Anfa",
+        "tourism": "apartment",
+        "website": "http://myloft.ma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6358261,
+          33.5923482
+        ]
+      },
+      "id": "node/8988534817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9692208462",
+        "addr:housenumber": "12",
+        "addr:street": "Rue du 6 Novembre",
+        "email": "hotelastrid@hotmail.com",
+        "name": "Hotel Astrid",
+        "phone": "+212522277803",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6163338,
+          33.5908054
+        ]
+      },
+      "id": "node/9692208462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9773446525",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5254637,
+          33.5853866
+        ]
+      },
+      "id": "node/9773446525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825274918",
+        "name:en": "Royal Palace",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6059407,
+          33.5808165
+        ]
+      },
+      "id": "node/9825274918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10101897481",
+        "name": "Suite-Hôtel Casa Diamond",
+        "name:fr": "Suite-Hôtel Casa Diamond",
+        "phone": "+212 5 22 22 22 28",
+        "tourism": "hotel",
+        "website": "https://www.suitehotelcasadiamond.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6226513,
+          33.5856982
+        ]
+      },
+      "id": "node/10101897481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10240135609",
+        "addr:postcode": "20250",
+        "addr:street": "Boulevard Mohammed V",
+        "addr:street:ar": "شارع محمد الخامس",
+        "addr:street:fr": "Boulevard Mohammed V",
+        "internet_access": "wlan",
+        "name": "Hôtel Campanile Casablanca Centre-Ville",
+        "name:fr": "Hôtel Campanile Casablanca Centre-Ville",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5995277,
+          33.5935168
+        ]
+      },
+      "id": "node/10240135609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10303350209",
+        "name:fr": "Marriott Casablanca",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6121639,
+          33.5964144
+        ]
+      },
+      "id": "node/10303350209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570079009",
+        "amenity": "atm",
+        "name:en": "C3005879 Mehdi Anber",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7291857,
+          33.5362076
+        ]
+      },
+      "id": "node/10570079009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10574664441",
+        "name:de": "Parplatz",
+        "tourism": "caravan_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6293901,
+          33.6086393
+        ]
+      },
+      "id": "node/10574664441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10838138305",
+        "name": "الرحمة 80",
+        "name:en": "rahma 80",
+        "tourism": "caravan_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7345714,
+          33.530907
+        ]
+      },
+      "id": "node/10838138305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10916037305",
+        "addr:postcode": "20000",
+        "addr:street": "Avenue Pasteur شارع باستور",
+        "name:en": "Grand Mogador City Center Casablanca",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6001371,
+          33.59572
+        ]
+      },
+      "id": "node/10916037305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10916039105",
+        "addr:postcode": "20250",
+        "addr:street": "Rue Aït Ba Amrane",
+        "name:en": "Mogador Marina",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6000774,
+          33.5950828
+        ]
+      },
+      "id": "node/10916039105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11006099105",
+        "internet_access": "wlan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6134626,
+          33.590945
+        ]
+      },
+      "id": "node/11006099105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11059355005",
+        "addr:housenumber": "3",
+        "addr:postcode": "20250",
+        "addr:street": "Rue Badr Assayab",
+        "name": "Mid town hotel casablanca",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6304491,
+          33.5889976
+        ]
+      },
+      "id": "node/11059355005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11093397905",
+        "internet_access": "wlan",
+        "name:en": "Hôtel des Amis",
+        "name:fr": "Hôtel des Amis",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617431,
+          33.5987757
+        ]
+      },
+      "id": "node/11093397905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11141704605",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6205296,
+          33.5989613
+        ]
+      },
+      "id": "node/11141704605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11152277405",
+        "name:en": "internatioal youthhostel of casabranca",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6210384,
+          33.6022737
+        ]
+      },
+      "id": "node/11152277405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216919438",
+        "name": "قيسارية العطارين",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.600121,
+          33.5773659
+        ]
+      },
+      "id": "node/11216919438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216925204",
+        "name": "متحف الطيران",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6658249,
+          33.5606308
+        ]
+      },
+      "id": "node/11216925204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216929387",
+        "name": "قيسارية السعديين",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6000481,
+          33.5772324
+        ]
+      },
+      "id": "node/11216929387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216998368",
+        "historic": "city_gate",
+        "name": "باب مراكش",
+        "name:fr": "Bal El-Kebir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6178656,
+          33.5969325
+        ]
+      },
+      "id": "node/11216998368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11220954101",
+        "name": "حديقة الجامعة العربية",
+        "name:fr": "Parc de la Ligue Arabe",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6236247,
+          33.5892018
+        ]
+      },
+      "id": "node/11220954101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11220980643",
+        "name": "حديقة عرصة الأرجوان",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.594759,
+          33.565136
+        ]
+      },
+      "id": "node/11220980643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11221898139",
+        "name": "Coupole Zevaco الكرة الأرضية",
+        "name:ar": "الكرة الأرضية",
+        "name:fr": "Coupole Zevaco",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6176281,
+          33.5964546
+        ]
+      },
+      "id": "node/11221898139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11221902250",
+        "name": "حديقة واد المخازن",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.623703,
+          33.5954475
+        ]
+      },
+      "id": "node/11221902250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11222366656",
+        "name": "Kissariat elbaraka",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6126819,
+          33.593174
+        ]
+      },
+      "id": "node/11222366656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11222381805",
+        "name": "المركب التجاري الصفوة",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.611784,
+          33.5928917
+        ]
+      },
+      "id": "node/11222381805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11222394385",
+        "name": "Kissariat Taieba",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.611392,
+          33.5935745
+        ]
+      },
+      "id": "node/11222394385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11228823237",
+        "addr:housenumber": "6",
+        "addr:street": "Rue d'Aix",
+        "name:en": "LHOSTEL à Casablanca",
+        "tourism": "hotel",
+        "website": "https://lhostelacasablanca.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6295067,
+          33.5616507
+        ]
+      },
+      "id": "node/11228823237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11333458869",
+        "name:en": "Local market place",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6215186,
+          33.5983158
+        ]
+      },
+      "id": "node/11333458869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11335289769",
+        "name:en": "Booking and hosting medina",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6208267,
+          33.5991941
+        ]
+      },
+      "id": "node/11335289769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11385730170",
+        "addr:housenumber": "91",
+        "name": "Ryad 91",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6170176,
+          33.597661
+        ]
+      },
+      "id": "node/11385730170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11407646369",
+        "name:en": "Hotel Du Louvre",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6161319,
+          33.5932579
+        ]
+      },
+      "id": "node/11407646369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410285796",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7033699,
+          33.5807195
+        ]
+      },
+      "id": "node/11410285796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410285797",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7031648,
+          33.5809601
+        ]
+      },
+      "id": "node/11410285797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410363075",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6889541,
+          33.5853116
+        ]
+      },
+      "id": "node/11410363075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410363076",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6840418,
+          33.5881096
+        ]
+      },
+      "id": "node/11410363076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410363077",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6804967,
+          33.5897356
+        ]
+      },
+      "id": "node/11410363077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410363174",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6896053,
+          33.5849817
+        ]
+      },
+      "id": "node/11410363174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410363178",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6860875,
+          33.5868517
+        ]
+      },
+      "id": "node/11410363178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410363373",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6892297,
+          33.5851619
+        ]
+      },
+      "id": "node/11410363373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410364170",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6842566,
+          33.5879837
+        ]
+      },
+      "id": "node/11410364170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410364171",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.67889,
+          33.5940818
+        ]
+      },
+      "id": "node/11410364171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410365570",
+        "name:en": "Oceanpark Appart Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6843164,
+          33.5863355
+        ]
+      },
+      "id": "node/11410365570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410365571",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6794361,
+          33.5903467
+        ]
+      },
+      "id": "node/11410365571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410365572",
+        "name:en": "Bellerive",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6783577,
+          33.5927156
+        ]
+      },
+      "id": "node/11410365572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11413150599",
+        "name": "Hotel Medine",
+        "name:fr": "Hotel Medine",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.617553,
+          33.5987198
+        ]
+      },
+      "id": "node/11413150599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11413150600",
+        "name": "Hotel Candid",
+        "name:en": "Hotel Candid",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6175568,
+          33.5985564
+        ]
+      },
+      "id": "node/11413150600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11413681078",
+        "name:en": "Guynemer",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6154865,
+          33.592656
+        ]
+      },
+      "id": "node/11413681078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11414762681",
+        "name:en": "One Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6156906,
+          33.5915765
+        ]
+      },
+      "id": "node/11414762681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11420470428",
+        "name": "Hostel Bresil",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6171647,
+          33.5981157
+        ]
+      },
+      "id": "node/11420470428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11420470430",
+        "name": "La victoire",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6167972,
+          33.5991664
+        ]
+      },
+      "id": "node/11420470430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11425552169",
+        "name": "WeCasablanca Sign",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6182757,
+          33.5916488
+        ]
+      },
+      "id": "node/11425552169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434425094",
+        "name": "Kissariat Akrim",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.598187,
+          33.5745621
+        ]
+      },
+      "id": "node/11434425094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434464556",
+        "name": "قيسارية السعيدي",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6000619,
+          33.5769386
+        ]
+      },
+      "id": "node/11434464556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434486638",
+        "name": "Kissariat Al Andalous",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5988131,
+          33.5730629
+        ]
+      },
+      "id": "node/11434486638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434496851",
+        "name": "Centre Commercial Mediouna",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5979381,
+          33.572937
+        ]
+      },
+      "id": "node/11434496851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434501552",
+        "name": "قيسارية أخماسي",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5978122,
+          33.5726852
+        ]
+      },
+      "id": "node/11434501552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434502224",
+        "name": "Kissariat Lahlou",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.598187,
+          33.5731888
+        ]
+      },
+      "id": "node/11434502224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434503920",
+        "name": "Kissariat Ben Slimane",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5991869,
+          33.5740623
+        ]
+      },
+      "id": "node/11434503920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434503933",
+        "name": "Derb Sultan Gallery",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5993118,
+          33.5754395
+        ]
+      },
+      "id": "node/11434503933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434506630",
+        "name": "Kissariat Aziza",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5983129,
+          33.5736885
+        ]
+      },
+      "id": "node/11434506630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434507399",
+        "name": "قيسارية الشاوية",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5995622,
+          33.5774384
+        ]
+      },
+      "id": "node/11434507399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434513776",
+        "name": "سوق البيض بالجملة",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6032429,
+          33.5835648
+        ]
+      },
+      "id": "node/11434513776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434515998",
+        "name": "قيسارية الأمراء",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6000619,
+          33.5784378
+        ]
+      },
+      "id": "node/11434515998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434516530",
+        "name": "Kissariat El Fath",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5985632,
+          33.5778122
+        ]
+      },
+      "id": "node/11434516530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434516941",
+        "name": "قيسارية عزيزة",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5993118,
+          33.5758133
+        ]
+      },
+      "id": "node/11434516941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11434522515",
+        "name": "Kissariat Achamal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5990629,
+          33.5786858
+        ]
+      },
+      "id": "node/11434522515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435126028",
+        "name": "Caesarea 15 Ramadan",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6091881,
+          33.5876884
+        ]
+      },
+      "id": "node/11435126028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435135054",
+        "name": "Kissariat El Haffari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.601562,
+          33.5731888
+        ]
+      },
+      "id": "node/11435135054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435137199",
+        "name": "مجموعة شيك فولار",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6015,
+          33.5753975
+        ]
+      },
+      "id": "node/11435137199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435151069",
+        "name": "مركز سوق الحبوس",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6045632,
+          33.5778122
+        ]
+      },
+      "id": "node/11435151069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435154253",
+        "name": "قيسارية البيضاء 2",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.606688,
+          33.5854378
+        ]
+      },
+      "id": "node/11435154253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435157298",
+        "name": "derb kabir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5958128,
+          33.5734367
+        ]
+      },
+      "id": "node/11435157298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435180693",
+        "name": "قيسارية الزاس",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6083131,
+          33.5865631
+        ]
+      },
+      "id": "node/11435180693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435273989",
+        "name": "برج الياقوت",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6101871,
+          33.5890617
+        ]
+      },
+      "id": "node/11435273989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435277584",
+        "name": "Kissariat Derb Omar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6096878,
+          33.5899353
+        ]
+      },
+      "id": "node/11435277584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435288546",
+        "name": "Kissariat Al Omra",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6098132,
+          33.5916862
+        ]
+      },
+      "id": "node/11435288546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435294450",
+        "name": "غرفة التجارة الصناعية و الخدمات",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.613688,
+          33.5948143
+        ]
+      },
+      "id": "node/11435294450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435298052",
+        "name": "Kissariat Lahrizi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6106882,
+          33.5896873
+        ]
+      },
+      "id": "node/11435298052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435298360",
+        "name": "Kissaria",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6089382,
+          33.5898132
+        ]
+      },
+      "id": "node/11435298360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11435302389",
+        "name": "Kissariate safrioui",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6105628,
+          33.5906868
+        ]
+      },
+      "id": "node/11435302389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11453220369",
+        "addr:housenumber": "15",
+        "addr:postcode": "20400",
+        "addr:street": "Rue Ibnou Hilal",
+        "contact:instagram": "stayhere.ma",
+        "email": "contact@stayhere.ma",
+        "internet_access": "wlan",
+        "name": "Stayhere Twin Center",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "+212666293619",
+        "tourism": "hotel",
+        "website": "https://stayhere.ma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6346741,
+          33.587411
+        ]
+      },
+      "id": "node/11453220369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11522831758",
+        "name": "رمزي سطور",
+        "name:ar": "رمزي سطور",
+        "name:en": "Ramzy Store",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5096502,
+          33.6059074
+        ]
+      },
+      "id": "node/11522831758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11628075069",
+        "name:fr": "Home Casa",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6118872,
+          33.5485338
+        ]
+      },
+      "id": "node/11628075069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11891557531",
+        "name": "Attarik Foundation",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6197781,
+          33.6064993
+        ]
+      },
+      "id": "node/11891557531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12079380140",
+        "information": "terminal",
+        "operator": "Casatramway",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5633115,
+          33.5813111
+        ]
+      },
+      "id": "node/12079380140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12079380141",
+        "information": "terminal",
+        "operator": "Casatramway",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5633058,
+          33.5813037
+        ]
+      },
+      "id": "node/12079380141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12474285401",
+        "name": "Hotel de Paris",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6160696,
+          33.592184
+        ]
+      },
+      "id": "node/12474285401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12618877348",
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Boulevard de l'Océan Atlantique شارع المحيط الأطلسي",
+        "check_date": "2025-02-25",
+        "fixme": "Would possibly be better mapped as area - boundaries are not clear enough from aerial imagery.",
+        "mobile": "+212700084805",
+        "name": "Parc Sindibad",
+        "phone": "+212522796862",
+        "tourism": "theme_park",
+        "website": "https://www.parcsindibad.ma/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6924168,
+          33.5809286
+        ]
+      },
+      "id": "node/12618877348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12696287914",
+        "name": "Chalet Royal",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7343242,
+          33.561596
+        ]
+      },
+      "id": "node/12696287914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12703885678",
+        "addr:street": "Boulevard Sidi Abderrahmane شارع سيدي عبد الرحمان",
+        "branch": "Casa Anfa",
+        "brand": "Eurostars Hotel Company",
+        "brand:wikidata": "Q8846494",
+        "check_date": "2025-09-20",
+        "image": "https://media.booking-channel.com/api/hotels/2992/images/83.jpeg",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Eurostars",
+        "rooms": "125",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.eurostarshotels.co.uk/eurostars-casa-anfa.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6509585,
+          33.5665301
+        ]
+      },
+      "id": "node/12703885678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12827608768",
+        "addr:street": "Boulevard Mohammed V شارع محمد الخامس",
+        "building": "hotel",
+        "name": "Hôtel Lincoln",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6119362,
+          33.5942343
+        ]
+      },
+      "id": "node/12827608768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12844672795",
+        "check_date": "2025-05-17",
+        "name": "Place des Nations Unies ساحة الأمم المتحدة",
+        "name:ar": "ساحة الأمم المتحدة",
+        "name:en": "United Nations Square",
+        "name:es": "Plaza de las Naciones Unidas",
+        "name:fr": "Place des Nations Unies",
+        "name:he": "כיכר האומות המאוחדות",
+        "name:hi": "संयुक्त राष्ट्र वर्ग",
+        "name:ja": "国連広場",
+        "old_name:es": "Plaza Maréchal",
+        "old_name:fr": "Place Maréchal",
+        "place": "square",
+        "surface": "asphalt",
+        "tourism": "attraction",
+        "wikidata": "Q56277500",
+        "wikimedia_commons": "Category:United Nations Square (Casablanca)",
+        "wikipedia": "es:Plaza de las Naciones Unidas (Casablanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6186635,
+          33.5949962
+        ]
+      },
+      "id": "node/12844672795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12910087521",
+        "brand": "Marly",
+        "check_date": "2025-06-12",
+        "contact:instagram": "https://www.instagram.com/marlyboutiquehotelcasablanca/",
+        "email": "Info@marlyboutiquehotel.com",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Marly Boutique Hotel",
+        "phone": "+212522042121",
+        "rooms": "39",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.marlyboutiquehotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6405033,
+          33.5873894
+        ]
+      },
+      "id": "node/12910087521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12910087522",
+        "branch": "Racine Casablanca",
+        "brand": "Citadines",
+        "check_date": "2025-06-12",
+        "name": "Citadines",
+        "tourism": "hotel",
+        "website": "https://www.discoverasr.com/en/citadines/morocco/citadines-racine-casablanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6405731,
+          33.5917571
+        ]
+      },
+      "id": "node/12910087522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12914244268",
+        "name": "Zen Suites",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.63955,
+          33.5866932
+        ]
+      },
+      "id": "node/12914244268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12918778851",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "branch": "Casablanca City Center",
+        "brand": "ONOMO Hotel",
+        "email": "onomo.massira@onomohotel.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "ONOMO Hotel",
+        "phone": "+212520001000",
+        "reservation": "required",
+        "tourism": "hotel",
+        "website": "https://www.onomohotels.com/hotel/onomo-hotel-casablanca-city-center/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6387828,
+          33.586511
+        ]
+      },
+      "id": "node/12918778851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12926370993",
+        "addr:street": "Boulevard de la Corniche شارع الكورنيش",
+        "branch": "Casablanca",
+        "brand": "Pestana",
+        "email": "reservations.casablanca@pestana.com",
+        "name": "Pestana",
+        "phone": "+212522795700",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.pestana.com/en/hotel/pestana-casablanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6666425,
+          33.597788
+        ]
+      },
+      "id": "node/12926370993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12927918805",
+        "addr:housenumber": "81",
+        "addr:street": "Rue du Chasseur Jules Gros",
+        "check_date": "2025-06-20",
+        "fax": "+212522994941",
+        "name": "Musée du Judaïsme marocain متحف التراث اليهودي المغربي",
+        "name:ar": "متحف التراث اليهودي المغربي",
+        "name:en": "Moroccan Jewish Museum",
+        "name:fr": "Musée du Judaïsme marocain",
+        "name:he": "מוזיאון יהדות מרוקו",
+        "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-15:00; Su 11:00-16:00",
+        "operator": "Fondation du Patrimoine Culturel Judéo-Marocain",
+        "phone": "+212522994940",
+        "start_date": "1997",
+        "tourism": "museum",
+        "website": "https://www.jewishmuseumcasa.com/",
+        "wikidata": "Q593909",
+        "wikimedia_commons": "Category:Moroccan Jewish Museum",
+        "wikipedia": "en:Moroccan Jewish Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6389843,
+          33.5522554
+        ]
+      },
+      "id": "node/12927918805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13009655102",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6999286,
+          33.582898
+        ]
+      },
+      "id": "node/13009655102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13009681301",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6995495,
+          33.5829616
+        ]
+      },
+      "id": "node/13009681301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13013828301",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6445902,
+          33.6052137
+        ]
+      },
+      "id": "node/13013828301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13067730676",
+        "addr:housenumber": "23",
+        "check_date": "2025-08-13",
+        "name": "Hôtel Al Mamoun فندق المامون",
+        "name:ar": "فندق المامون",
+        "name:fr": "Hôtel Al Mamoun",
+        "opening_hours": "24/7",
+        "phone": "+212522205420",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6169452,
+          33.5942947
+        ]
+      },
+      "id": "node/13067730676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13067730677",
+        "addr:street": "Rue Idriss Lahrizi",
+        "check_date": "2025-08-13",
+        "name": "Appart-Hotel Bel Anfa",
+        "phone": "+212522209531",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6167855,
+          33.5933398
+        ]
+      },
+      "id": "node/13067730677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13068008932",
+        "addr:housenumber": "139",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "brand": "Barceló Hotels & Resorts",
+        "brand:wikidata": "Q15148996",
+        "check_date": "2025-08-13",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Barceló Casablanca",
+        "phone": "+212522208000",
+        "tourism": "hotel",
+        "website": "https://www.barcelo.com/fr-fr/barcelo-casablanca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6353824,
+          33.5910965
+        ]
+      },
+      "id": "node/13068008932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13071776157",
+        "addr:street": "Rue Oussama Ibnou Zaid زنقة أسامة بن زيد",
+        "name": "Unico Hôtel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6388782,
+          33.5850269
+        ]
+      },
+      "id": "node/13071776157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13076749092",
+        "brand": "Gray",
+        "check_date": "2025-08-18",
+        "contact:facebook": "https://www.facebook.com/GrayBoutiqueHotel/",
+        "contact:instagram": "https://www.instagram.com/hotelgrayboutique/",
+        "email": "info@grayboutiquehotel.com",
+        "mapillary": "3684147045028562",
+        "name": "Gray Boutique Hotel Casablanca",
+        "phone": "+212522427800",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.grayboutiquehotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6409983,
+          33.5931956
+        ]
+      },
+      "id": "node/13076749092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13080332132",
+        "brand": "Kenzi",
+        "check_date": "2025-08-19",
+        "name": "Kenzi Tower Hotel",
+        "tourism": "hotel",
+        "website": "https://www.kenzi-hotels.com/en/kenzi-tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6320846,
+          33.5865866
+        ]
+      },
+      "id": "node/13080332132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13080332133",
+        "addr:housenumber": "14",
+        "addr:street": "Rue El Kadi Iass زنقة القاضي إياس",
+        "check_date": "2025-08-19",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hôtel Down Town Maarif",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.636068,
+          33.5861685
+        ]
+      },
+      "id": "node/13080332133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13083664828",
+        "addr:housenumber": "171",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "check_date": "2025-08-20",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Le Palace d'Anfa",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.lepalacedanfa-hotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6381384,
+          33.5899345
+        ]
+      },
+      "id": "node/13083664828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13083739162",
+        "addr:street": "Boulevard Bir Anzarane شارع بئر أنزران",
+        "brand": "Adagio",
+        "brand:wikidata": "Q2823880",
+        "check_date": "2025-08-20",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Adagio",
+        "phone": "+212522239500",
+        "tourism": "hotel",
+        "website": "https://www.adagio-city.com/fr/hotel-b3h3-aparthotel-adagio-casablanca-city-center/index.shtml"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6442143,
+          33.5853855
+        ]
+      },
+      "id": "node/13083739162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13093077994",
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "name": "Ibis",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6250489,
+          33.5778977
+        ]
+      },
+      "id": "node/13093077994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13093077996",
+        "name": "New Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6250604,
+          33.5784496
+        ]
+      },
+      "id": "node/13093077996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13093103107",
+        "addr:postcode": "20250",
+        "addr:street": "Avenue Hassan II شارع الحسن الثاني",
+        "branch": "Casablanca",
+        "brand": "Mövenpick",
+        "brand:wikidata": "Q691162",
+        "check_date": "2025-03-26",
+        "name": "Mövenpick",
+        "name:fr": "Hôtel Casablanca Plaza",
+        "tourism": "hotel",
+        "website": "https://movenpick.accor.com/en/africa/morocco/casablanca/hotel-casablanca.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6239497,
+          33.5836818
+        ]
+      },
+      "id": "node/13093103107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13095382930",
+        "addr:street": "Rue Colbert",
+        "name": "Hôtel Manar",
+        "name:fr": "Hôtel Manar",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6122717,
+          33.5955359
+        ]
+      },
+      "id": "node/13095382930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096440029",
+        "name": "Hôtel Suisse",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.676522,
+          33.5914255
+        ]
+      },
+      "id": "node/13096440029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13100974257",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "branch": "Anfa Casablanca",
+        "brand": "Barceló Hotels & Resorts",
+        "brand:wikidata": "Q15148996",
+        "name": "Barceló Hotels & Resorts",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.628718,
+          33.5947874
+        ]
+      },
+      "id": "node/13100974257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13105807597",
+        "addr:street": "Boulevard du 9 Avril شارع 9 أبريل",
+        "name": "Hôtel Rania Belmadina",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6303891,
+          33.5825878
+        ]
+      },
+      "id": "node/13105807597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13105809501",
+        "addr:street": "Boulevard Brahim Roudani شارع ابراهيم الروداني",
+        "name": "Hôtel Nodom",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6309194,
+          33.5840642
+        ]
+      },
+      "id": "node/13105809501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13121631950",
+        "addr:street": "Boulevard Brahim Roudani شارع ابراهيم الروداني",
+        "name": "Avenue Suites",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6368116,
+          33.5779047
+        ]
+      },
+      "id": "node/13121631950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13123189229",
+        "addr:street": "Rue Oumayma Essayeh زنقة أميمة السايح",
+        "check_date": "2025-09-06",
+        "name": "LXR by Hilton",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6389394,
+          33.5888462
+        ]
+      },
+      "id": "node/13123189229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13141789969",
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:postcode": "20000",
+        "addr:street": "Boulevard de la Corniche شارع الكورنيش",
+        "brand": "Hotels & Resorts of Morocco",
+        "email": "resa-lido@hrm.ma",
+        "fax": "+212522391219",
+        "name": "Casablanca Le Lido Thalasso & Spa",
+        "old_name": "Riad Salam",
+        "phone": "+212522952580",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6703258,
+          33.5973576
+        ]
+      },
+      "id": "node/13141789969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13158271509",
+        "addr:housenumber": "19",
+        "addr:postcode": "20660",
+        "addr:street": "Avenue Moulay Rachid شارع مولاي رشيد",
+        "check_date": "2025-01-11",
+        "contact:instagram": "https://www.instagram.com/lecasablancahotel.officiel/",
+        "contact:tripadvisor": "https://www.instagram.com/lecasablancahotel.officiel/",
+        "email": "resa@lecasablanca-hotel.com",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "mapillary": "902803000281449",
+        "name": "Le Casablanca",
+        "phone": "+212522649797",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.lecasablanca-hotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6477704,
+          33.5886569
+        ]
+      },
+      "id": "node/13158271509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13175181560",
+        "addr:street": "Route de Marrakech",
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "name": "Ibis",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6409047,
+          33.5388078
+        ]
+      },
+      "id": "node/13175181560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13179436030",
+        "addr:street": "Route Al Jamiaa",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6441185,
+          33.5629662
+        ]
+      },
+      "id": "node/13179436030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13189469901",
+        "addr:housenumber": "4",
+        "addr:postcode": "20620",
+        "name:en": "Panorama",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4906188,
+          33.5992234
+        ]
+      },
+      "id": "node/13189469901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324835875",
+        "addr:housename": "Idou Anfa Hotel",
+        "addr:housenumber": "85",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "name": "Idou Anfa Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6327735,
+          33.5923273
+        ]
+      },
+      "id": "node/13324835875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13325287390",
+        "addr:street": "Avenue Hassan II",
+        "name": "Hôtel Le 135",
+        "name:fr": "Hôtel Le 135",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6213306,
+          33.58683
+        ]
+      },
+      "id": "node/13325287390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13356392440",
+        "addr:street": "Boulevard Abou Bakr El Kadiri شارع أبو بكر القديري",
+        "name": "Galerie Panorama",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6496694,
+          33.5268745
+        ]
+      },
+      "id": "node/13356392440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13358589457",
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:housename": "Complexe Casa City Centre",
+        "addr:housename:fr": "Complexe Casa City Centre",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "brand": "Ibis",
+        "brand:fr": "Ibis Casablanca City Centre",
+        "brand:wikidata": "Q920166",
+        "brand:wikipedia": "fr:Ibis (chaîne d'hôtels)",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "IBIS",
+        "name": "Ibis Casablanca City Centre",
+        "name:fr": "Ibis Casablanca City Centre",
+        "operator": "Accor",
+        "operator:fr": "Accor",
+        "operator:wikidata": "Q212599",
+        "operator:wikipedia": "fr:Accor",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://all.accor.com/hotel/6573/index.fr.shtml"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6132842,
+          33.5986167
+        ]
+      },
+      "id": "node/13358589457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13358589458",
+        "addr:city": "Casablanca",
+        "addr:housename": "Golden Tulip Hôtel Farah",
+        "addr:housename:fr": "Golden Tulip Hôtel Farah",
+        "addr:housenumber": "160",
+        "addr:postcode": "20000",
+        "addr:street": "Avenue des Forces Armees Royales",
+        "brand": "Golden Tulip",
+        "brand:wikidata": "Q19725996",
+        "name": "Golden Tulip Hôtel Farah",
+        "name:fr": "Golden Tulip Hôtel Farah",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6101647,
+          33.5963077
+        ]
+      },
+      "id": "node/13358589458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13358589491",
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "name": "Hôtel Toubkal",
+        "name:fr": "Hôtel Toubkal",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6146123,
+          33.597432
+        ]
+      },
+      "id": "node/13358589491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13426858095",
+        "name": "Parc Zoologique Ain sebaâ",
+        "name:ar": "حديقة الحيوانات عين السبع",
+        "tourism": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5304142,
+          33.6038253
+        ]
+      },
+      "id": "node/13426858095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13607593158",
+        "addr:city": "Casablanca",
+        "addr:country": "MO",
+        "addr:postcode": "20320",
+        "addr:street": "Angle Boulevard Brahim Roudani & Rue Abou Al Faïd Al Masri",
+        "contact:email": "info.lacitadelle.casablanca@radisson.com",
+        "contact:phone": "+212 5 20 78 10 00",
+        "contact:website": "https://www.radissonhotels.com/en-us/hotels/radisson-gauthierlacitadelle-casablanca",
+        "name": "Radisson Hotel Casablanca Gauthier La Citadelle",
+        "rooms": "133",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6277706,
+          33.5879443
+        ]
+      },
+      "id": "node/13607593158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13628491201",
+        "addr:housenumber": "15",
+        "addr:postcode": "20330",
+        "addr:street": "Rue Alkassar",
+        "internet_access": "wlan",
+        "name:en": "Faya Nova-Appart hotel central stay",
+        "opening_hours": "24/7",
+        "phone": "+212 7 28 96 90 83",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6319943,
+          33.585006
+        ]
+      },
+      "id": "node/13628491201"
+    }
+  ]
+}

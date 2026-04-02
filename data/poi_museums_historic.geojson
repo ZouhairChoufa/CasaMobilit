@@ -1,0 +1,770 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-28T19:15:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174670321",
+        "access": "yes",
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "building": "mausoleum",
+        "check_date": "2024-12-30",
+        "historic": "tomb",
+        "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/le360/DKMNHS5A2VGR5AQCQIRQWQT6NI.JPG",
+        "name": "Mausolée Sidi Abderrahmane ضريح سيدي عبد الرحمن",
+        "name:ar": "ضريح سيدي عبد الرحمن",
+        "name:en": "Sidi Abderrahman Mausoleum",
+        "name:fr": "Mausolée Sidi Abderrahmane",
+        "tomb": "mausoleum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7045569,
+              33.5825523
+            ],
+            [
+              -7.7045621,
+              33.5824885
+            ],
+            [
+              -7.7045157,
+              33.5824859
+            ],
+            [
+              -7.7045187,
+              33.5824485
+            ],
+            [
+              -7.7044533,
+              33.5824448
+            ],
+            [
+              -7.7044551,
+              33.5824225
+            ],
+            [
+              -7.704433,
+              33.5824212
+            ],
+            [
+              -7.70443,
+              33.582458
+            ],
+            [
+              -7.7043971,
+              33.5824562
+            ],
+            [
+              -7.7043923,
+              33.5825148
+            ],
+            [
+              -7.7043552,
+              33.5825127
+            ],
+            [
+              -7.7043527,
+              33.5825435
+            ],
+            [
+              -7.7044387,
+              33.5825483
+            ],
+            [
+              -7.7044406,
+              33.5825245
+            ],
+            [
+              -7.7044596,
+              33.5825256
+            ],
+            [
+              -7.7044579,
+              33.5825467
+            ],
+            [
+              -7.7045569,
+              33.5825523
+            ]
+          ]
+        ]
+      },
+      "id": "way/174670321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307309390",
+        "building": "apartments",
+        "historic": "building",
+        "name": "Sémiramis"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.5638447,
+              33.5833927
+            ],
+            [
+              -7.563702,
+              33.582939
+            ],
+            [
+              -7.5635523,
+              33.5829716
+            ],
+            [
+              -7.5636951,
+              33.5834254
+            ],
+            [
+              -7.5638447,
+              33.5833927
+            ]
+          ]
+        ]
+      },
+      "id": "way/307309390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/757879624",
+        "building": "yes",
+        "historic": "tomb",
+        "tomb": "mausoleum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6289826,
+              33.5169937
+            ],
+            [
+              -7.6290315,
+              33.5169551
+            ],
+            [
+              -7.6289941,
+              33.5169222
+            ],
+            [
+              -7.6289452,
+              33.5169608
+            ],
+            [
+              -7.6289826,
+              33.5169937
+            ]
+          ]
+        ]
+      },
+      "id": "way/757879624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1356886212",
+        "building": "yes",
+        "historic": "tomb",
+        "name": "Sidi Ahmad al Taghy",
+        "tomb": "mausoleum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.680676,
+              33.5892289
+            ],
+            [
+              -7.6806512,
+              33.5891937
+            ],
+            [
+              -7.6805946,
+              33.5892214
+            ],
+            [
+              -7.6806195,
+              33.5892566
+            ],
+            [
+              -7.680676,
+              33.5892289
+            ]
+          ]
+        ]
+      },
+      "id": "way/1356886212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1362927101",
+        "area": "yes",
+        "check_date": "2025-02-25",
+        "historic": "yes",
+        "name": "Dar Khalifa دار خليفة",
+        "name:ar": "دار خليفة",
+        "name:ar1": "The Caliph's House",
+        "name:fr": "Dar Khalifa",
+        "wikidata": "Q118905521",
+        "wikimedia_commons": "Category:Dar Khalifa",
+        "wikipedia": "en:Dar Khalifa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6822645,
+              33.5811059
+            ],
+            [
+              -7.6812292,
+              33.580104
+            ],
+            [
+              -7.6808748,
+              33.5803842
+            ],
+            [
+              -7.6819121,
+              33.5813859
+            ],
+            [
+              -7.6822645,
+              33.5811059
+            ]
+          ]
+        ]
+      },
+      "id": "way/1362927101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388403773",
+        "alt_name": "Villa Roudani",
+        "architect": "Diego Jimenez",
+        "building": "house",
+        "check_date": "2025-05-21",
+        "commons": "Fichier:Villa des arts Casablanca 02.jpg",
+        "house": "detached",
+        "name": "Villa des Arts دار الفنون",
+        "name:ar": "دار الفنون",
+        "name:fr": "Villa des Arts",
+        "old_name": "Les Jasmines",
+        "owner": "Fondation Al Mada",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.629588,
+              33.5865393
+            ],
+            [
+              -7.6296723,
+              33.5864517
+            ],
+            [
+              -7.6296588,
+              33.5864426
+            ],
+            [
+              -7.6296955,
+              33.586405
+            ],
+            [
+              -7.6296165,
+              33.5863534
+            ],
+            [
+              -7.6296154,
+              33.5863297
+            ],
+            [
+              -7.6295871,
+              33.5863106
+            ],
+            [
+              -7.6295307,
+              33.5863182
+            ],
+            [
+              -7.6295037,
+              33.5863424
+            ],
+            [
+              -7.6295059,
+              33.5863628
+            ],
+            [
+              -7.629497,
+              33.5863646
+            ],
+            [
+              -7.6294881,
+              33.5863674
+            ],
+            [
+              -7.6294801,
+              33.5863709
+            ],
+            [
+              -7.6294736,
+              33.5863752
+            ],
+            [
+              -7.6294683,
+              33.5863821
+            ],
+            [
+              -7.6294655,
+              33.5863902
+            ],
+            [
+              -7.6294637,
+              33.5863984
+            ],
+            [
+              -7.6294639,
+              33.586406
+            ],
+            [
+              -7.6294393,
+              33.5864083
+            ],
+            [
+              -7.6294141,
+              33.5864331
+            ],
+            [
+              -7.6294198,
+              33.586446
+            ],
+            [
+              -7.6294378,
+              33.5864584
+            ],
+            [
+              -7.6294335,
+              33.5864657
+            ],
+            [
+              -7.6294321,
+              33.5864734
+            ],
+            [
+              -7.6294332,
+              33.5864803
+            ],
+            [
+              -7.6294367,
+              33.586487
+            ],
+            [
+              -7.6294422,
+              33.5864925
+            ],
+            [
+              -7.629451,
+              33.5864972
+            ],
+            [
+              -7.6294589,
+              33.5864991
+            ],
+            [
+              -7.6294671,
+              33.5864991
+            ],
+            [
+              -7.6294763,
+              33.5864969
+            ],
+            [
+              -7.6294843,
+              33.5864924
+            ],
+            [
+              -7.6295,
+              33.586503
+            ],
+            [
+              -7.6295131,
+              33.5864893
+            ],
+            [
+              -7.629588,
+              33.5865393
+            ]
+          ]
+        ]
+      },
+      "id": "way/1388403773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388514408",
+        "area": "yes",
+        "historic": "ruins",
+        "ruins": "building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6378298,
+              33.5803244
+            ],
+            [
+              -7.6376989,
+              33.5802335
+            ],
+            [
+              -7.6375831,
+              33.5803475
+            ],
+            [
+              -7.6376995,
+              33.5804276
+            ],
+            [
+              -7.6377094,
+              33.5804175
+            ],
+            [
+              -7.6377265,
+              33.5804293
+            ],
+            [
+              -7.6378298,
+              33.5803244
+            ]
+          ]
+        ]
+      },
+      "id": "way/1388514408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388514412",
+        "area": "yes",
+        "historic": "ruins",
+        "ruins": "building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.637671,
+              33.5800899
+            ],
+            [
+              -7.6377459,
+              33.5799815
+            ],
+            [
+              -7.6376653,
+              33.5799404
+            ],
+            [
+              -7.6376051,
+              33.5800251
+            ],
+            [
+              -7.6375881,
+              33.580049
+            ],
+            [
+              -7.637671,
+              33.5800899
+            ]
+          ]
+        ]
+      },
+      "id": "way/1388514412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566450798",
+        "historic": "city_gate",
+        "name": "باب المرسى",
+        "name:fr": "Bab El-Marsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6170758,
+          33.6005953
+        ]
+      },
+      "id": "node/566450798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3964572091",
+        "historic": "city_gate",
+        "name": "Bab Marrakech",
+        "name:en": "Marrakesh Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6215001,
+          33.5981842
+        ]
+      },
+      "id": "node/3964572091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579812898",
+        "historic": "castle",
+        "name": "Mohbas",
+        "name:fr": "Mohbas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6518422,
+          33.5292777
+        ]
+      },
+      "id": "node/4579812898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5476241921",
+        "air_conditioning": "yes",
+        "fee": "yes",
+        "name:de": "Hassan II Moschee Museum",
+        "name:en": "Hassan II Mosque Museum",
+        "name:fr": "museum & Billet",
+        "name:ru": "Музей мечети Хасана II",
+        "operator": "Fondation Hassan II",
+        "toilets": "yes",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6304794,
+          33.6055002
+        ]
+      },
+      "id": "node/5476241921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5482661780",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Plaque mémoriale Hachimi El Filali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6264988,
+          33.5621176
+        ]
+      },
+      "id": "node/5482661780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7168801044",
+        "historic": "monument",
+        "name": "siyed el bernoussi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.498655,
+          33.6163207
+        ]
+      },
+      "id": "node/7168801044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7282188285",
+        "name": "Musée de la Fondation Abderrahman slaoui",
+        "name:fr": "Musée de la Fondation Abderrahman Slaoui",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6226155,
+          33.5924023
+        ]
+      },
+      "id": "node/7282188285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9338740640",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Western Naval Task Force Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.575259,
+          33.5780907
+        ]
+      },
+      "id": "node/9338740640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216925204",
+        "name": "متحف الطيران",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6658249,
+          33.5606308
+        ]
+      },
+      "id": "node/11216925204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216998368",
+        "historic": "city_gate",
+        "name": "باب مراكش",
+        "name:fr": "Bal El-Kebir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6178656,
+          33.5969325
+        ]
+      },
+      "id": "node/11216998368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11891557531",
+        "name": "Attarik Foundation",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6197781,
+          33.6064993
+        ]
+      },
+      "id": "node/11891557531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12558637009",
+        "building": "yes",
+        "historic": "tomb",
+        "name": "Sidi Bilyout",
+        "tomb": "mausoleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6141177,
+          33.598807
+        ]
+      },
+      "id": "node/12558637009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12654142398",
+        "access": "private",
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Palais Al-Saoud قصر آل سعود",
+        "name:ar": "قصر آل سعود",
+        "name:fr": "Palais Al-Saoud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6666781,
+          33.5953773
+        ]
+      },
+      "id": "node/12654142398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12927918805",
+        "addr:housenumber": "81",
+        "addr:street": "Rue du Chasseur Jules Gros",
+        "check_date": "2025-06-20",
+        "fax": "+212522994941",
+        "name": "Musée du Judaïsme marocain متحف التراث اليهودي المغربي",
+        "name:ar": "متحف التراث اليهودي المغربي",
+        "name:en": "Moroccan Jewish Museum",
+        "name:fr": "Musée du Judaïsme marocain",
+        "name:he": "מוזיאון יהדות מרוקו",
+        "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-15:00; Su 11:00-16:00",
+        "operator": "Fondation du Patrimoine Culturel Judéo-Marocain",
+        "phone": "+212522994940",
+        "start_date": "1997",
+        "tourism": "museum",
+        "website": "https://www.jewishmuseumcasa.com/",
+        "wikidata": "Q593909",
+        "wikimedia_commons": "Category:Moroccan Jewish Museum",
+        "wikipedia": "en:Moroccan Jewish Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6389843,
+          33.5522554
+        ]
+      },
+      "id": "node/12927918805"
+    }
+  ]
+}

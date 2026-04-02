@@ -1,0 +1,147 @@
+stop_id,stop_name,line_id,mode,seq,osm_id,source,district,latitude,longitude
+T1_01,Sidi Moumen - Terminus,T1,tramway,0,node/2235605807,http://www.casatramway.ma/,Sidi Moumen,33.586942,-7.501496
+T1_02,Ennassim,T1,tramway,1,node/2235605654,http://www.casatramway.ma/,Aïn Harrouda,33.584866,-7.504731
+T1_03,Mohamed Zefzaf,T1,tramway,2,node/2235605622,http://www.casatramway.ma/,Roches Noires,33.582363,-7.508678
+T1_04,Centre de Maintenance,T1,tramway,3,node/2235605682,http://www.casatramway.ma/,Aïn Sebaâ,33.579532,-7.513126
+T1_05,Hôpital Sidi Moumen,T1,tramway,4,node/2235605643,http://www.casatramway.ma/,Hay Mohammadi,33.576584,-7.517745
+T1_06,Attacharouk,T1,tramway,5,node/2235605690,http://www.casatramway.ma/,Al Fida,33.574056,-7.52431
+T1_07,Ôkba Ibn Nafiî,T1,tramway,6,node/2238332342,http://www.casatramway.ma/,Oasis,33.572911,-7.532559
+T1_08,Forces Auxiliaires,T1,tramway,7,node/2235605803,http://www.casatramway.ma/,Mers Sultan,33.574729,-7.539451
+T1_09,Hay Raja,T1,tramway,8,node/2235605454,http://www.casatramway.ma/,Mers Sultan,33.576682,-7.548467
+T1_10,Ibn Tachfine,T1,tramway,9,node/2238332258,http://www.casatramway.ma/,Mers Sultan,33.580794,-7.563419
+T1_11,Hay Mohammadi,T1,tramway,10,node/2235605663,http://www.casatramway.ma/,Médina,33.585634,-7.566729
+T1_12,Achouhada,T1,tramway,11,node/2238332082,http://www.casatramway.ma/,Médina,33.588496,-7.56777
+T1_13,Ali Yaata,T1,tramway,12,node/2235605394,http://www.casatramway.ma/,Centre-ville,33.591473,-7.569957
+T1_14,Grande Ceinture,T1,tramway,13,node/2235605719,http://www.casatramway.ma/,Centre-ville,33.590407,-7.573765
+T1_15,Les Anciens Abattoirs,T1,tramway,14,node/2235605431,http://www.casatramway.ma/,Centre-ville,33.590991,-7.578581
+T1_16,Bahmad,T1,tramway,15,node/2235605385,http://www.casatramway.ma/,Centre-ville,33.594764,-7.586443
+T1_17,Casa Voyageurs,T1,tramway,16,node/2235605694,http://www.casatramway.ma/,Centre-ville,33.590358,-7.591948
+T1_18,Place Al Yassir,T1,tramway,17,node/2238332192,http://www.casatramway.ma/,Médina,33.592909,-7.59695
+T1_19,La Résistance,T1,tramway,18,node/2235605416,http://www.casatramway.ma/,Maârif,33.593449,-7.603162
+T1_20,Mohamed Diouri,T1,tramway,19,node/2238332263,http://www.casatramway.ma/,Maârif,33.593722,-7.607775
+T1_21,Marché Central,T1,tramway,20,node/2235605616,http://www.casatramway.ma/,Maârif,33.5946,-7.612611
+T1_22,Place des Nations Unies,T1,tramway,21,node/2235605755,http://www.casatramway.ma/,Maârif,33.595121,-7.618117
+T1_23,Place Mohammed V,T1,tramway,22,node/2238405601,http://www.casatramway.ma/,Anfa,33.589638,-7.620009
+T1_24,Avenue Hassan II,T1,tramway,23,node/2235605651,http://www.casatramway.ma/,Aïn Diab,33.584116,-7.623041
+T1_25,Les Hôpitaux,T1,tramway,24,node/2238447184,http://www.casatramway.ma/,Lissasfa,33.580016,-7.624839
+T1_26,Faculté de Médecine,T1,tramway,25,node/2235605472,http://www.casatramway.ma/,Lissasfa,33.574927,-7.625824
+T1_27,Abdelmoumen,T1,tramway,26,node/2235605753,http://www.casatramway.ma/,Casablanca,33.570553,-7.625982
+T1_28,Bachkou,T1,tramway,27,node/2235605408,http://www.casatramway.ma/,Casablanca,33.565237,-7.626854
+T1_29,Mekka,T1,tramway,28,node/2235605474,http://www.casatramway.ma/,Casablanca,33.557824,-7.629831
+T1_30,Gare Oasis,T1,tramway,29,node/2235605426,http://www.casatramway.ma/,Casablanca,33.554127,-7.631312
+T1_31,Panoramique,T1,tramway,30,node/2235605765,http://www.casatramway.ma/,Casablanca,33.547167,-7.631885
+T1_32,Zénith,T1,tramway,31,node/2235605401,http://www.casatramway.ma/,Casablanca,33.540737,-7.642815
+T1_33,Gare Casa Sud,T1,tramway,32,node/2238568797,http://www.casatramway.ma/,Casablanca,33.541977,-7.650645
+T1_34,Facultés,T1,tramway,33,node/2235605392,http://www.casatramway.ma/,Casablanca,33.545812,-7.657178
+T1_35,Laymoune,T1,tramway,34,node/6128450133,http://www.casatramway.ma/,Casablanca,33.540095,-7.66636
+T1_36,Lissasfa - Terminus,T1,tramway,35,node/6128450134,http://www.casatramway.ma/,Casablanca,33.535051,-7.670077
+T2_01,Ain Diab Plage - Terminus,T2,tramway,0,node/2235605828,http://www.casatramway.ma/,Sidi Bernoussi,33.587432,-7.680807
+T2_02,Littoral,T2,tramway,1,node/2235605581,http://www.casatramway.ma/,Ouled Ziane,33.580943,-7.6748
+T2_03,Hay Hassani,T2,tramway,2,node/2235605660,http://www.casatramway.ma/,Bernoussi,33.576567,-7.672926
+T2_04,Sidi Abderrahmane,T2,tramway,3,node/2235605418,http://www.casatramway.ma/,Hay Hassani,33.571956,-7.669382
+T2_05,Cité de L'air,T2,tramway,4,node/2235605477,http://www.casatramway.ma/,Hay Hassani,33.568223,-7.664184
+T2_06,Abdellah Ben Cherif,T2,tramway,5,node/3484336100,http://www.casatramway.ma/,Centre-ville,33.565883,-7.660293
+T2_07,Place Financière,T2,tramway,6,node/3484336128,http://www.casatramway.ma/,Centre-ville,33.562315,-7.660917
+T2_08,Anfa Park,T2,tramway,7,node/3484336159,http://www.casatramway.ma/,Médina,33.559766,-7.657472
+T2_09,Anfa Club,T2,tramway,8,node/3484336121,http://www.casatramway.ma/,Médina,33.561279,-7.653002
+T2_10,Beauséjour,T2,tramway,9,node/2238613690,http://www.casatramway.ma/,Aïn Diab,33.564339,-7.64792
+T2_11,Ghandi,T2,tramway,10,node/2235605781,http://www.casatramway.ma/,Aïn Diab,33.568775,-7.644603
+T2_12,Riviera,T2,tramway,11,node/2238635740,http://www.casatramway.ma/,Casablanca,33.570944,-7.636355
+T2_13,Derb Ghalef,T2,tramway,12,node/4244309716,http://www.casatramway.ma/,Casablanca,33.570037,-7.63167
+T2_14,Anoual,T2,tramway,13,node/5599986587,http://www.casatramway.ma/,Casablanca,33.569421,-7.624931
+T2_15,Hermitage,T2,tramway,14,node/5599986588,http://www.casatramway.ma/,Casablanca,33.569196,-7.617907
+T2_16,2 Mars,T2,tramway,15,node/4360005391,http://www.casatramway.ma/,Casablanca,33.569098,-7.612706
+T2_17,El Fida,T2,tramway,16,node/5599986590,http://www.casatramway.ma/,Casablanca,33.566494,-7.607259
+T2_18,Place Sraghna,T2,tramway,17,node/5599986591,http://www.casatramway.ma/,Casablanca,33.569612,-7.602143
+T2_19,Derb Sultan,T2,tramway,18,node/5599986592,http://www.casatramway.ma/,Casablanca,33.572125,-7.595833
+T2_20,Hay El Farah,T2,tramway,19,node/5599986593,http://www.casatramway.ma/,Casablanca,33.57166,-7.586345
+T2_21,Derb Milan,T2,tramway,20,node/5327872136,http://www.casatramway.ma/,Casablanca,33.571966,-7.580742
+T2_22,Cimetière Achouhada,T2,tramway,21,node/5599986595,http://www.casatramway.ma/,Casablanca,33.576575,-7.574412
+T2_23,Hay Adil,T2,tramway,22,node/5599986596,http://www.casatramway.ma/,Casablanca,33.579239,-7.568144
+T2_24,Mdakra,T2,tramway,23,node/5599986597,http://www.casatramway.ma/,Casablanca,33.581196,-7.563404
+T2_25,Kissariat Hay Mohammadi,T2,tramway,24,node/5327872002,http://www.casatramway.ma/,Casablanca,33.587099,-7.563555
+T2_26,Carrières Centrales,T2,tramway,25,node/5599986598,http://www.casatramway.ma/,Casablanca,33.592731,-7.564447
+T2_27,Dar Laman,T2,tramway,26,node/5599986599,http://www.casatramway.ma/,Casablanca,33.593776,-7.557455
+T2_28,Wifaq,T2,tramway,27,node/5599986600,http://www.casatramway.ma/,Casablanca,33.595709,-7.537881
+T2_29,Al Amane,T2,tramway,28,node/5599986601,http://www.casatramway.ma/,Casablanca,33.599192,-7.532763
+T2_30,Préfecture Ain Sbaa,T2,tramway,29,node/5599986602,http://www.casatramway.ma/,Casablanca,33.60212,-7.52993
+T2_31,Gare de Ain Sbaa,T2,tramway,30,node/5599987244,http://www.casatramway.ma/,Casablanca,33.607424,-7.524306
+T2_32,Abi Dar El Ghafari,T2,tramway,31,node/5327871967,http://www.casatramway.ma/,Casablanca,33.606608,-7.518045
+T2_33,Sidi Bernoussi - Terminus,T2,tramway,32,node/5599987245,http://www.casatramway.ma/,Casablanca,33.610086,-7.509819
+T3_01,Casa Port - Terminus,T3,busway,0,node/10127198115,http://www.casatramway.ma/,Médina,33.598241,-7.611962
+T3_02,Mohammed Smiha,T3,busway,1,node/10127222017,http://www.casatramway.ma/,Médina,33.593163,-7.608734
+T3_03,Place de la Victoire,T3,busway,2,node/10127222019,http://www.casatramway.ma/,Habous,33.588324,-7.608579
+T3_04,Mohammed Zerktouni,T3,busway,3,node/10127222020,http://www.casatramway.ma/,Hay Moulay Abdellah,33.584918,-7.605946
+T3_05,Habous,T3,busway,4,node/10127222022,http://www.casatramway.ma/,Maârif,33.57897,-7.600729
+T3_06,Garage Allal,T3,busway,5,node/10127222024,http://www.casatramway.ma/,Ben M'Sick,33.576005,-7.599135
+T3_07,Derb Tolba,T3,busway,6,node/10127222026,http://www.casatramway.ma/,Aïn Chock,33.571209,-7.596821
+T3_08,Derb Chorfa,T3,busway,7,node/10127222030,http://www.casatramway.ma/,La Fraouine,33.566463,-7.595604
+T3_09,Abou Chouaib Doukali,T3,busway,8,node/10127222029,http://www.casatramway.ma/,Lahraoune,33.561773,-7.594782
+T3_10,Afriquia,T3,busway,9,node/10127222033,http://www.casatramway.ma/,Hay El Wahda,33.554962,-7.592659
+T3_11,Dar Attouzani,T3,busway,10,node/10127222035,http://www.casatramway.ma/,Casablanca,33.548905,-7.586563
+T3_12,Bd Mohammed VI,T3,busway,11,node/12212880493,http://www.casatramway.ma/,Casablanca,33.543538,-7.580809
+T3_13,6 Novembre,T3,busway,12,node/11050720829,http://www.casatramway.ma/,Casablanca,33.546416,-7.575941
+T3_14,Abdessalam Ennaciri,T3,busway,13,node/11050720827,http://www.casatramway.ma/,Casablanca,33.548374,-7.572616
+T3_15,Jardin Alesco,T3,busway,14,node/10127222051,http://www.casatramway.ma/,Casablanca,33.550698,-7.568778
+T3_16,Hay Lalla Meriem,T3,busway,15,node/10127222049,http://www.casatramway.ma/,Casablanca,33.557015,-7.558392
+T3_17,Idriss El Allam,T3,busway,16,node/10127222040,http://www.casatramway.ma/,Casablanca,33.56042,-7.552682
+T3_18,Abdelkader Essahraoui,T3,busway,17,node/10127222042,http://www.casatramway.ma/,Casablanca,33.555847,-7.547638
+T3_19,10 mars,T3,busway,18,node/10127222044,http://www.casatramway.ma/,Casablanca,33.551886,-7.550863
+T3_20,Hay Al Wahda - Terminus,T3,busway,19,node/10127222047,http://www.casatramway.ma/,Casablanca,33.544733,-7.548918
+T4_01,Mohammed Erradi - Terminus,T4,busway,0,node/10963477190,http://www.casatramway.ma/,Centre-ville,33.569257,-7.518228
+T4_02,Zone industrielle,T4,busway,1,node/10963477189,http://www.casatramway.ma/,Maârif,33.570819,-7.524116
+T4_03,Moulay Rachid,T4,busway,2,node/10963477186,http://www.casatramway.ma/,Maârif,33.571519,-7.531283
+T4_04,Mohammed Joudar,T4,busway,3,node/10963462858,http://www.casatramway.ma/,Hay Hassani,33.568431,-7.536277
+T4_05,Faculté Ben Msik,T4,busway,4,node/10963477185,http://www.casatramway.ma/,Oulfa,33.566089,-7.543059
+T4_06,Hay El Falah,T4,busway,5,node/10963477183,http://www.casatramway.ma/,Hay Hassani,33.563248,-7.547983
+T4_07,Mohammed Bouziane,T4,busway,6,node/10963477181,http://www.casatramway.ma/,Casablanca,33.563913,-7.554539
+T4_08,Hay Salama,T4,busway,7,node/10963477179,http://www.casatramway.ma/,Casablanca,33.568034,-7.558675
+T4_09,Bd Nil,T4,busway,8,node/10963477177,http://www.casatramway.ma/,Casablanca,33.566565,-7.564792
+T4_10,Jardin Chtaiba,T4,busway,9,node/10963477175,http://www.casatramway.ma/,Casablanca,33.565337,-7.570928
+T4_11,Hay Tissir,T4,busway,10,node/10963477173,http://www.casatramway.ma/,Casablanca,33.57245,-7.58058
+T4_12,Gare Oulad Ziane,T4,busway,11,node/10963477171,http://www.casatramway.ma/,Casablanca,33.576138,-7.58586
+T4_13,Aïn Borja,T4,busway,12,node/10963477169,http://www.casatramway.ma/,Casablanca,33.580375,-7.591855
+T4_14,Ifni,T4,busway,13,node/10963477167,http://www.casatramway.ma/,Casablanca,33.584805,-7.598129
+T4_15,La Gironde,T4,busway,14,node/10963477165,http://www.casatramway.ma/,Casablanca,33.587788,-7.601165
+T4_16,Jaber Ibn Hayane,T4,busway,15,node/12212952905,http://www.casatramway.ma/,Casablanca,33.588824,-7.60771
+T4_17,Mers Sultan,T4,busway,16,node/12212952904,http://www.casatramway.ma/,Casablanca,33.587872,-7.617107
+T4_18,Parc de la Ligue Arabe - Terminus,T4,busway,17,node/12212952901,http://www.casatramway.ma/,Casablanca,33.588146,-7.622042
+BW1_01,Salmia 2 - Terminus,BW1,busway,0,node/12175374656,http://www.casatramway.ma/,Salmia,33.53703,-7.550713
+BW1_02,Sbata,BW1,busway,1,node/12175375116,http://www.casatramway.ma/,Oasis,33.538483,-7.554706
+BW1_03,Stade Tessema,BW1,busway,2,node/12175374657,http://www.casatramway.ma/,Anfa,33.54092,-7.558552
+BW1_04,Al Joulane,BW1,busway,3,node/12175374660,http://www.casatramway.ma/,Anfa,33.543805,-7.562193
+BW1_05,Lahrizi,BW1,busway,4,node/12175374663,http://www.casatramway.ma/,Anfa,33.54,-7.56856
+BW1_06,Jardin Sunday,BW1,busway,5,node/12175374667,http://www.casatramway.ma/,Casablanca,33.539986,-7.578787
+BW1_07,Amgala,BW1,busway,6,node/12175374669,http://www.casatramway.ma/,Casablanca,33.543731,-7.581894
+BW1_08,Sefrou,BW1,busway,7,node/12175374671,http://www.casatramway.ma/,Casablanca,33.542316,-7.588654
+BW1_09,Taza,BW1,busway,8,node/12175374673,http://www.casatramway.ma/,Casablanca,33.54136,-7.593233
+BW1_10,Al Inara,BW1,busway,9,node/12175374676,http://www.casatramway.ma/,Casablanca,33.539661,-7.599023
+BW1_11,Oulad Haddou,BW1,busway,10,node/12175374677,http://www.casatramway.ma/,Casablanca,33.537085,-7.605364
+BW1_12,Hay Cherifa,BW1,busway,11,node/12175374680,http://www.casatramway.ma/,Casablanca,33.535032,-7.609965
+BW1_13,Taddart,BW1,busway,12,node/12175374681,http://www.casatramway.ma/,Casablanca,33.532114,-7.616742
+BW1_14,Azzohour,BW1,busway,13,node/12175374685,http://www.casatramway.ma/,Casablanca,33.530487,-7.623484
+BW1_15,Californie,BW1,busway,14,node/12175374687,http://www.casatramway.ma/,Casablanca,33.531193,-7.630616
+BW1_16,Casa Near-Shore,BW1,busway,15,node/12175374689,http://www.casatramway.ma/,Casablanca,33.530253,-7.638743
+BW1_17,Al Mostakbal,BW1,busway,16,node/12175374691,http://www.casatramway.ma/,Casablanca,33.53166,-7.646741
+BW1_18,Sidi Maârouf,BW1,busway,17,node/12175374693,http://www.casatramway.ma/,Casablanca,33.532912,-7.651269
+BW1_19,Omar El Khayam - Terminus,BW1,busway,18,node/12175375114,http://www.casatramway.ma/,Casablanca,33.540049,-7.666877
+BW2_01,Oulmes - Terminus,BW2,busway,0,node/12182135857,http://www.casatramway.ma/,Ouled Azzouz,33.571536,-7.648512
+BW2_02,C.I.L.,BW2,busway,1,node/12182135861,http://www.casatramway.ma/,Madinat Arrahma,33.567289,-7.656149
+BW2_03,Les musées,BW2,busway,2,node/12182135871,http://www.casatramway.ma/,Lissasfa,33.56501,-7.660456
+BW2_04,Oued Oum Rabia,BW2,busway,3,node/12182135873,http://www.casatramway.ma/,Sidi Maarouf,33.563263,-7.665002
+BW2_05,Oued Laou,BW2,busway,4,node/12182135877,http://www.casatramway.ma/,Sidi Maarouf,33.561349,-7.6698
+BW2_06,Oued Beht,BW2,busway,5,node/12182135876,http://www.casatramway.ma/,Casablanca,33.558309,-7.679389
+BW2_07,Moulouya,BW2,busway,6,node/12182135887,http://www.casatramway.ma/,Casablanca,33.556273,-7.683473
+BW2_08,Haj Fateh,BW2,busway,7,node/12182135889,http://www.casatramway.ma/,Casablanca,33.55325,-7.689833
+BW2_09,Essafa,BW2,busway,8,node/12182135890,http://www.casatramway.ma/,Casablanca,33.550877,-7.696069
+BW2_10,Moulay Thami,BW2,busway,9,node/12182135892,http://www.casatramway.ma/,Casablanca,33.548433,-7.701014
+BW2_11,Abouab Oulfa,BW2,busway,10,node/12182138406,http://www.casatramway.ma/,Casablanca,33.546247,-7.704817
+BW2_12,La Rocade,BW2,busway,11,node/12182138408,http://www.casatramway.ma/,Casablanca,33.543814,-7.709079
+BW2_13,La Perception,BW2,busway,12,node/12182138410,http://www.casatramway.ma/,Casablanca,33.537887,-7.718511
+BW2_14,Les Jardins D'Errahma,BW2,busway,13,node/12182138412,http://www.casatramway.ma/,Casablanca,33.534522,-7.723781
+BW2_15,Errahma,BW2,busway,14,node/12182138414,http://www.casatramway.ma/,Casablanca,33.531391,-7.728737
+BW2_16,Oued Sbou,BW2,busway,15,node/12182138420,http://www.casatramway.ma/,Casablanca,33.52855,-7.733615
+BW2_17,Les Ecoles,BW2,busway,16,node/12182138422,http://www.casatramway.ma/,Casablanca,33.526537,-7.739739
+BW2_18,Ouled Ahmed,BW2,busway,17,node/12182138424,http://www.casatramway.ma/,Casablanca,33.524822,-7.745946
+BW2_19,La Ferme,BW2,busway,18,node/12182138426,http://www.casatramway.ma/,Casablanca,33.522474,-7.75106
+BW2_20,Ouled Azzouz - Terminus,BW2,busway,19,node/12182138428,http://www.casatramway.ma/,Casablanca,33.518587,-7.757398

@@ -1,0 +1,7 @@
+route_id,route_name,mode,operator,colour,terminal_a,terminal_b,first_departure_a,last_departure_a,first_departure_b,last_departure_b,peak_frequency_min,offpeak_frequency_min,weekend_frequency_min,fare_mad,source
+T1,Tramway Ligne T1,tramway,RATP Dev / Casatramway,#F38230,Sidi Moumen,Lissasfa,05:30,22:30,06:00,22:30,5,10,10,6.0,casatramway.ma PDFs + OSM arete_casatramway_casabusway.geojson
+T2,Tramway Ligne T2,tramway,RATP Dev / Casatramway,#FFDB2F,Aïn Diab,Sidi Bernoussi,05:30,22:30,06:00,22:30,6,10,10,6.0,casatramway.ma PDFs + OSM arete_casatramway_casabusway.geojson
+T3,Busway Ligne T3,busway,RATP Dev / Casatramway,#A0522D,Gare de Casa-Port,Hay El Wahda,05:30,22:30,06:00,22:30,5,8,10,6.0,casatramway.ma PDFs + OSM arete_casatramway_casabusway.geojson
+T4,Busway Ligne T4,busway,RATP Dev / Casatramway,#0078C8,Parc de la Ligue Arabe,Mohammed Erradi,06:00,22:30,05:30,22:30,7,10,12,6.0,casatramway.ma PDFs + OSM arete_casatramway_casabusway.geojson
+BW1,Busway Ligne BW1,busway,RATP Dev / Casabusway,#2E7D32,Salmia 2,Omar El Khayam,05:30,22:30,06:00,22:30,10,15,15,6.0,casatramway.ma PDFs + OSM arete_casatramway_casabusway.geojson
+BW2,Busway Ligne BW2,busway,RATP Dev / Casabusway,#388E3C,Ouled Azzouz,Oulmès,05:30,22:30,06:00,22:30,10,15,15,6.0,casatramway.ma PDFs + OSM arete_casatramway_casabusway.geojson
