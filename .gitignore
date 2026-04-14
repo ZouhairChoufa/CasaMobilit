@@ -19,7 +19,8 @@ build/
 
 # ── Environment variables / secrets ──────────────────────────────
 .env
-.env.*
+.env.local
+.env.production
 secrets.toml
 *.key
 *.pem

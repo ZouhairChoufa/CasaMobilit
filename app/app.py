@@ -1,14 +1,17 @@
+# -*- coding: utf-8 -*-
 """
 app.py — Géoportail Smart Mobility Casablanca PoC V1
-Data source: OSM arete_casatramway_casabusway.geojson (single source of truth)
 Run: streamlit run app/app.py
 """
-import re, streamlit as st
-from streamlit_folium import st_folium
-from collections import Counter
+import re
 import sys
-from pathlib import Path
 import base64
+from pathlib import Path
+from collections import Counter
+
+import streamlit as st
+from streamlit_folium import st_folium
+from PIL import Image
 
 _APP_DIR = Path(__file__).parent
 sys.path.insert(0, str(_APP_DIR))
@@ -19,11 +22,19 @@ from load_data import (
     LINE_COLORS, CATEGORY_FA_UI, CATEGORY_COLOR, step_icon,
 )
 from map_utils import build_general_map, build_scenario_map
-from PIL import Image
 
-def get_base64_image(image_path):
-    with open(image_path, "rb") as img_file:
-        return base64.b64encode(img_file.read()).decode()
+
+def get_base64_image(image_path: Path) -> str:
+    return base64.b64encode(image_path.read_bytes()).decode()
+
+
+def mcard(col, ico: str, val: str, lbl: str, acc: str) -> None:
+    col.markdown(
+        f'<div class="metric-card" style="--acc:{acc}">'
+        f'<i class="fa {ico}"></i>'
+        f'<div class="metric-val">{val}</div>'
+        f'<div class="metric-lbl">{lbl}</div></div>',
+        unsafe_allow_html=True)
 
 
 logo = Image.open(_APP_DIR / "um6p_logo.png")
@@ -158,15 +169,7 @@ if go:
             '&nbsp;Votre itinéraire</div>', unsafe_allow_html=True)
 
         # Metrics
-        def mcard(col, ico, val, lbl, acc):
-            col.markdown(
-                f'<div class="metric-card" style="--acc:{acc}">'
-                f'<i class="fa {ico}"></i>'
-                f'<div class="metric-val">{val}</div>'
-                f'<div class="metric-lbl">{lbl}</div></div>',
-                unsafe_allow_html=True)
-
-        c1,c2,c3,c4 = st.columns(4)
+        c1, c2, c3, c4 = st.columns(4)
         mcard(c1,"fa-clock-o", f"{scenario.get('estimated_time_min', '?')} min","Durée totale","#F38230")
         mcard(c2,"fa-tag",     f"{scenario.get('estimated_cost_mad', '?')} MAD","Coût total","#27ae60")
         mcard(c3,"fa-exchange",f"{scenario.get('correspondences', '?')}","Correspondance(s)","#e67e22")

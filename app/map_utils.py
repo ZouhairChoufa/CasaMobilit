@@ -1,7 +1,6 @@
+# -*- coding: utf-8 -*-
 """
 map_utils.py — Map builders
-SCENARIO MAP: shows ONLY the clipped route segment + correct walking line
-GENERAL MAP: shows full network
 """
 import folium
 from folium.plugins import MarkerCluster

@@ -1,10 +1,13 @@
+# -*- coding: utf-8 -*-
 """
 load_data.py — Data layer + route clipping
-Source of truth: OSM arete_casatramway_casabusway.geojson
 """
 import math
-import pandas as pd, json, streamlit as st
+import json
 from pathlib import Path
+
+import pandas as pd
+import streamlit as st
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 
