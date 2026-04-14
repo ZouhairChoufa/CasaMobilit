@@ -132,6 +132,7 @@ with st.sidebar:
     )
 
 # ── HEADER ────────────────────────────────────────────────────────
+st.markdown("<div style='height: 30px;'></div>", unsafe_allow_html=True)
 col_logo, col_texte = st.columns([1, 7])
 
 with col_logo:
