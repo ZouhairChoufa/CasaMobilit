@@ -145,7 +145,7 @@ with col_logo:
 with col_texte:
     st.markdown(
         '<div>'
-        '<div style="font-size:26px;font-weight:800;color:var(--text-color);line-height:1.5; padding-top:5px;">'
+        '<div style="font-size:26px;font-weight:800;color:var(--text-color);line-height:1.5; padding-top:10px;">'
         'CasaMobilité — Géoportail</div>'
         '<div style="font-size:16px;color:#2563EB;font-weight:700;margin-top:2px;text-transform:uppercase;">'
         'STRATÉGIES DES SMART CITIES EN AFRIQUE</div>'
