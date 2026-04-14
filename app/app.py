@@ -10,7 +10,8 @@ import sys
 from pathlib import Path
 import base64
 
-sys.path.insert(0, str(Path(__file__).parent))
+_APP_DIR = Path(__file__).parent
+sys.path.insert(0, str(_APP_DIR))
 
 from load_data import (
     load_stops, load_routes, load_scenarios, load_poi,
@@ -25,7 +26,7 @@ def get_base64_image(image_path):
         return base64.b64encode(img_file.read()).decode()
 
 
-logo = Image.open("app/um6p_logo.png")
+logo = Image.open(_APP_DIR / "um6p_logo.png")
 st.set_page_config(
     page_title="CasaMobilité — Géoportail,  STRATÉGIES DES SMART CITIES EN AFRIQUE",
     page_icon=logo,
@@ -50,7 +51,7 @@ transport_geo = load_transport_geojson()
 
 # ── SIDEBAR ───────────────────────────────────────────────────────
 with st.sidebar:
-    img_base64 = get_base64_image("app/um6p_logo.png")
+    img_base64 = get_base64_image(_APP_DIR / "um6p_logo.png")
 
     st.markdown(
         f"""
