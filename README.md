@@ -59,14 +59,14 @@ L'application s'ouvre sur **http://localhost:8501**
 
 ---
 
-## ☁️ Lancer dans GitHub Codespaces
+## Lancer dans GitHub Codespaces
 
 Ce projet inclut une configuration `.devcontainer` prête à l'emploi.  
 Cliquez sur **Code → Open with Codespaces** depuis GitHub — l'application démarre automatiquement.
 
 ---
 
-## 🗂️ Structure du projet
+## Structure du projet
 
 ```
 geoportal/
@@ -100,7 +100,7 @@ geoportal/
 
 ---
 
-## 📊 Données
+## Données
 
 | Fichier | Description | Source |
 |---------|-------------|--------|
@@ -114,7 +114,7 @@ geoportal/
 
 ---
 
-## 🗺️ Scénarios disponibles (V1)
+## Scénarios disponibles (V1)
 
 | ID | Origine | Destination | Lignes | Durée | Coût |
 |----|---------|-------------|--------|-------|------|
@@ -124,7 +124,7 @@ geoportal/
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 | Technologie | Rôle |
 |-------------|------|
@@ -137,7 +137,7 @@ geoportal/
 
 ---
 
-## 🧪 Tests
+## Tests
 
 Pour valider la logique des scénarios en ligne de commande :
 
@@ -147,19 +147,19 @@ python app/test_logic.py
 
 ---
 
-## 📦 Périmètre V1
+## Périmètre V1
 
-- ✅ Tramway T1, T2
-- ✅ Busway T3, T4, BW1, BW2
-- ✅ 91 POI touristiques
-- ✅ 3 scénarios d'itinéraires
-- ❌ Taxis et VTC (hors périmètre)
-- ❌ Géolocalisation temps réel
-- ❌ Authentification utilisateur
+- Tramway T1, T2
+- Busway T3, T4, BW1, BW2
+- 91 POI touristiques
+- 3 scénarios d'itinéraires
+- Taxis et VTC : hors périmètre
+- Géolocalisation temps réel : hors périmètre
+- Authentification utilisateur : hors périmètre
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont les bienvenues pour la V2 !
 
@@ -173,7 +173,7 @@ Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour les détails complets.
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est sous licence [MIT](LICENSE).
 
